@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Pierre",
+    "title": "Pierre Bezukhov",
+    "aliases": ["Pierre"],
+    "description": "The illegitimate son of Count Bezukhov. A freethinking, sometimes reckless, man capable of decisive action and great displays of willpower when circumstances demand it."
+  },
+  {
+    "name": "Natasha",
+    "title": "Natasha Rostova",
+    "aliases": ["Natásha"],
+    "description": "The lively and irrepressible daughter of the Rostov family, who charms everyone she meets."
+  },
+  {
+    "name": "Andrei",
+    "title": "Prince Andrei Nikolayevich Bolkonsky",
+    "aliases": ["Andrew", "Bolkónski"],
+    "description": "The intelligent, disciplined, and ambitious son of the retired military commander Prince Bolkonski. Coldly analytical and resistant to flights of emotion."
+  },
+  {
+    "name": "Nikolai",
+    "title": "Nikolai Rostov",
+    "aliases": ["Nicholas", "Rostóv"],
+    "description": "The impetuous, eldest Rostov son, who joins the Russian forces in 1805 and spends much of the novel on the warfront."
+  },
+  {
+    "name": "Sonya",
+    "title": "Sonya",
+    "aliases": ["Sónya"],
+    "description": "The humble cousin of Natasha and Nikolai, who lives with the Rostovs as a ward. Deeply in love her childhood sweetheart, Nikolai."
+  },
+  {
+    "name": "Helene",
+    "title": "Helene Kuragina",
+    "aliases": ["Hélène"],
+    "description": "Vasili Kuragin’s cold, imperious, and beautiful daughter, who seduces Pierre into marriage and carries out many affairs."
+  },
+  {
+    "name": "Marya",
+    "title": "Princess Marya Bolkonskaya",
+    "aliases": ["Mary"],
+    "description": "The lonely, plain, and long-suffering daughter of Prince Bolkonski, Marya endures her father's cruel treatment with Christian forgiveness."
+  },
+  {
+    "name": "Anatole",
+    "title": "Anatole Kuragin",
+    "aliases": ["Anatole"],
+    "description": "Vasili Kuragin's son, a handsome, irresponsible and somewhat hedonistic military officer."
+  },
+  {
+    "name": "Napoleon",
+    "title": "Napoleon Bonaparte",
+    "aliases": ["Napoleon", "Bonaparte"],
+    "description": "A French military and political leader who rose to prominence during the French Revolution and invaded Russia."
+  }
+]

@@ -1,37 +1,37 @@
 {
-    "title": "War and Peace",
-    "author": "Leo Tolstoy",
-    "wordcount": 571777,
-    "characters": {
-        "Pierre": 1963,
-        "Natasha": 1213,
-        "Andrei": 1323,
-        "Nikolai": 1598,
-        "Sonya": 448,
-        "Helene": 165,
-        "Marya": 666,
-        "Anatole": 222,
-        "Napoleon": 678
-    },
-    "themes": [
-        "love",
-        "beauty",
-        "marriage",
-        "religion",
-        "religion",
-        "dream",
-        "war",
-        "peace",
-        "death",
-        "history"
-    ],
-    "places": [
-        "Moscow",
-        "Petersburg",
-        "Bald Hills",
-        "Austerlitz",
-        "Borodin\u00f3",
-        "Boguch\u00e1rovo",
-        "Otr\u00e1dnoe"
-    ]
+  "title": "War and Peace",
+  "author": "Leo Tolstoy",
+  "wordcount": 571777,
+  "characters": {
+    "Pierre": 1963,
+    "Natasha": 1213,
+    "Andrei": 1323,
+    "Nikolai": 1598,
+    "Sonya": 448,
+    "Helene": 165,
+    "Marya": 666,
+    "Anatole": 222,
+    "Napoleon": 678
+  },
+  "themes": [
+    "love",
+    "beauty",
+    "marriage",
+    "religion",
+    "religion",
+    "dream",
+    "war",
+    "peace",
+    "death",
+    "history"
+  ],
+  "places": [
+    "Moscow",
+    "Petersburg",
+    "Bald Hills",
+    "Austerlitz",
+    "Borodin\u00f3",
+    "Boguch\u00e1rovo",
+    "Otr\u00e1dnoe"
+  ]
 }

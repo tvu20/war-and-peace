@@ -2,6 +2,7 @@
     {
         "book": "ONE",
         "chapter": "I",
+        "total": 1,
         "wordcount": 2058,
         "characters": {
             "Pierre": 0,
@@ -38,6 +39,7 @@
     {
         "book": "ONE",
         "chapter": "II",
+        "total": 2,
         "wordcount": 1397,
         "characters": {
             "Pierre": 7,
@@ -74,6 +76,7 @@
     {
         "book": "ONE",
         "chapter": "III",
+        "total": 3,
         "wordcount": 1490,
         "characters": {
             "Pierre": 4,
@@ -110,6 +113,7 @@
     {
         "book": "ONE",
         "chapter": "IV",
+        "total": 4,
         "wordcount": 1446,
         "characters": {
             "Pierre": 9,
@@ -146,6 +150,7 @@
     {
         "book": "ONE",
         "chapter": "V",
+        "total": 5,
         "wordcount": 1898,
         "characters": {
             "Pierre": 17,
@@ -182,6 +187,7 @@
     {
         "book": "ONE",
         "chapter": "VI",
+        "total": 6,
         "wordcount": 1375,
         "characters": {
             "Pierre": 12,
@@ -218,6 +224,7 @@
     {
         "book": "ONE",
         "chapter": "VII",
+        "total": 7,
         "wordcount": 1040,
         "characters": {
             "Pierre": 12,
@@ -254,6 +261,7 @@
     {
         "book": "ONE",
         "chapter": "VIII",
+        "total": 8,
         "wordcount": 1232,
         "characters": {
             "Pierre": 14,
@@ -290,6 +298,7 @@
     {
         "book": "ONE",
         "chapter": "IX",
+        "total": 9,
         "wordcount": 2131,
         "characters": {
             "Pierre": 26,
@@ -326,6 +335,7 @@
     {
         "book": "ONE",
         "chapter": "X",
+        "total": 10,
         "wordcount": 1742,
         "characters": {
             "Pierre": 5,
@@ -362,6 +372,7 @@
     {
         "book": "ONE",
         "chapter": "XI",
+        "total": 11,
         "wordcount": 889,
         "characters": {
             "Pierre": 0,
@@ -398,6 +409,7 @@
     {
         "book": "ONE",
         "chapter": "XII",
+        "total": 12,
         "wordcount": 1383,
         "characters": {
             "Pierre": 0,
@@ -434,6 +446,7 @@
     {
         "book": "ONE",
         "chapter": "XIII",
+        "total": 13,
         "wordcount": 736,
         "characters": {
             "Pierre": 0,
@@ -470,6 +483,7 @@
     {
         "book": "ONE",
         "chapter": "XIV",
+        "total": 14,
         "wordcount": 1570,
         "characters": {
             "Pierre": 1,
@@ -506,6 +520,7 @@
     {
         "book": "ONE",
         "chapter": "XV",
+        "total": 15,
         "wordcount": 1503,
         "characters": {
             "Pierre": 2,
@@ -542,6 +557,7 @@
     {
         "book": "ONE",
         "chapter": "XVI",
+        "total": 16,
         "wordcount": 1879,
         "characters": {
             "Pierre": 32,
@@ -578,6 +594,7 @@
     {
         "book": "ONE",
         "chapter": "XVII",
+        "total": 17,
         "wordcount": 724,
         "characters": {
             "Pierre": 0,
@@ -614,6 +631,7 @@
     {
         "book": "ONE",
         "chapter": "XVIII",
+        "total": 18,
         "wordcount": 2379,
         "characters": {
             "Pierre": 8,
@@ -650,6 +668,7 @@
     {
         "book": "ONE",
         "chapter": "XIX",
+        "total": 19,
         "wordcount": 1161,
         "characters": {
             "Pierre": 3,
@@ -686,6 +705,7 @@
     {
         "book": "ONE",
         "chapter": "XX",
+        "total": 20,
         "wordcount": 2094,
         "characters": {
             "Pierre": 6,
@@ -722,6 +742,7 @@
     {
         "book": "ONE",
         "chapter": "XXI",
+        "total": 21,
         "wordcount": 2762,
         "characters": {
             "Pierre": 10,
@@ -758,6 +779,7 @@
     {
         "book": "ONE",
         "chapter": "XXII",
+        "total": 22,
         "wordcount": 1814,
         "characters": {
             "Pierre": 28,
@@ -794,6 +816,7 @@
     {
         "book": "ONE",
         "chapter": "XXIII",
+        "total": 23,
         "wordcount": 1807,
         "characters": {
             "Pierre": 26,
@@ -830,6 +853,7 @@
     {
         "book": "ONE",
         "chapter": "XXIV",
+        "total": 24,
         "wordcount": 1667,
         "characters": {
             "Pierre": 26,
@@ -866,6 +890,7 @@
     {
         "book": "ONE",
         "chapter": "XXV",
+        "total": 25,
         "wordcount": 3648,
         "characters": {
             "Pierre": 4,
@@ -902,6 +927,7 @@
     {
         "book": "ONE",
         "chapter": "XXVI",
+        "total": 26,
         "wordcount": 2008,
         "characters": {
             "Pierre": 1,
@@ -938,6 +964,7 @@
     {
         "book": "ONE",
         "chapter": "XXVII",
+        "total": 27,
         "wordcount": 1600,
         "characters": {
             "Pierre": 0,
@@ -974,6 +1001,7 @@
     {
         "book": "ONE",
         "chapter": "XXVIII",
+        "total": 28,
         "wordcount": 3361,
         "characters": {
             "Pierre": 0,
@@ -1010,6 +1038,7 @@
     {
         "book": "TWO",
         "chapter": "I",
+        "total": 29,
         "wordcount": 1715,
         "characters": {
             "Pierre": 0,
@@ -1046,6 +1075,7 @@
     {
         "book": "TWO",
         "chapter": "II",
+        "total": 30,
         "wordcount": 2684,
         "characters": {
             "Pierre": 0,
@@ -1082,6 +1112,7 @@
     {
         "book": "TWO",
         "chapter": "III",
+        "total": 31,
         "wordcount": 2442,
         "characters": {
             "Pierre": 0,
@@ -1118,6 +1149,7 @@
     {
         "book": "TWO",
         "chapter": "IV",
+        "total": 32,
         "wordcount": 3119,
         "characters": {
             "Pierre": 0,
@@ -1154,6 +1186,7 @@
     {
         "book": "TWO",
         "chapter": "V",
+        "total": 33,
         "wordcount": 1229,
         "characters": {
             "Pierre": 0,
@@ -1190,6 +1223,7 @@
     {
         "book": "TWO",
         "chapter": "VI",
+        "total": 34,
         "wordcount": 959,
         "characters": {
             "Pierre": 0,
@@ -1226,6 +1260,7 @@
     {
         "book": "TWO",
         "chapter": "VII",
+        "total": 35,
         "wordcount": 1793,
         "characters": {
             "Pierre": 0,
@@ -1262,6 +1297,7 @@
     {
         "book": "TWO",
         "chapter": "VIII",
+        "total": 36,
         "wordcount": 3339,
         "characters": {
             "Pierre": 0,
@@ -1298,6 +1334,7 @@
     {
         "book": "TWO",
         "chapter": "IX",
+        "total": 37,
         "wordcount": 1848,
         "characters": {
             "Pierre": 0,
@@ -1334,6 +1371,7 @@
     {
         "book": "TWO",
         "chapter": "X",
+        "total": 38,
         "wordcount": 2165,
         "characters": {
             "Pierre": 0,
@@ -1370,6 +1408,7 @@
     {
         "book": "TWO",
         "chapter": "XI",
+        "total": 39,
         "wordcount": 886,
         "characters": {
             "Pierre": 0,
@@ -1406,6 +1445,7 @@
     {
         "book": "TWO",
         "chapter": "XII",
+        "total": 40,
         "wordcount": 2003,
         "characters": {
             "Pierre": 0,
@@ -1442,6 +1482,7 @@
     {
         "book": "TWO",
         "chapter": "XIII",
+        "total": 41,
         "wordcount": 2189,
         "characters": {
             "Pierre": 0,
@@ -1478,6 +1519,7 @@
     {
         "book": "TWO",
         "chapter": "XIV",
+        "total": 42,
         "wordcount": 1151,
         "characters": {
             "Pierre": 0,
@@ -1514,6 +1556,7 @@
     {
         "book": "TWO",
         "chapter": "XV",
+        "total": 43,
         "wordcount": 2101,
         "characters": {
             "Pierre": 0,
@@ -1550,6 +1593,7 @@
     {
         "book": "TWO",
         "chapter": "XVI",
+        "total": 44,
         "wordcount": 888,
         "characters": {
             "Pierre": 0,
@@ -1586,6 +1630,7 @@
     {
         "book": "TWO",
         "chapter": "XVII",
+        "total": 45,
         "wordcount": 1834,
         "characters": {
             "Pierre": 0,
@@ -1622,6 +1667,7 @@
     {
         "book": "TWO",
         "chapter": "XVIII",
+        "total": 46,
         "wordcount": 1701,
         "characters": {
             "Pierre": 0,
@@ -1658,6 +1704,7 @@
     {
         "book": "TWO",
         "chapter": "XIX",
+        "total": 47,
         "wordcount": 2100,
         "characters": {
             "Pierre": 0,
@@ -1694,6 +1741,7 @@
     {
         "book": "TWO",
         "chapter": "XX",
+        "total": 48,
         "wordcount": 2207,
         "characters": {
             "Pierre": 0,
@@ -1730,6 +1778,7 @@
     {
         "book": "TWO",
         "chapter": "XXI",
+        "total": 49,
         "wordcount": 2922,
         "characters": {
             "Pierre": 0,
@@ -1766,6 +1815,7 @@
     {
         "book": "THREE",
         "chapter": "I",
+        "total": 50,
         "wordcount": 3476,
         "characters": {
             "Pierre": 44,
@@ -1802,6 +1852,7 @@
     {
         "book": "THREE",
         "chapter": "II",
+        "total": 51,
         "wordcount": 3403,
         "characters": {
             "Pierre": 49,
@@ -1838,6 +1889,7 @@
     {
         "book": "THREE",
         "chapter": "III",
+        "total": 52,
         "wordcount": 3167,
         "characters": {
             "Pierre": 0,
@@ -1874,6 +1926,7 @@
     {
         "book": "THREE",
         "chapter": "IV",
+        "total": 53,
         "wordcount": 2978,
         "characters": {
             "Pierre": 0,
@@ -1910,6 +1963,7 @@
     {
         "book": "THREE",
         "chapter": "V",
+        "total": 54,
         "wordcount": 2224,
         "characters": {
             "Pierre": 0,
@@ -1946,6 +2000,7 @@
     {
         "book": "THREE",
         "chapter": "VI",
+        "total": 55,
         "wordcount": 2223,
         "characters": {
             "Pierre": 0,
@@ -1982,6 +2037,7 @@
     {
         "book": "THREE",
         "chapter": "VII",
+        "total": 56,
         "wordcount": 3383,
         "characters": {
             "Pierre": 1,
@@ -2018,6 +2074,7 @@
     {
         "book": "THREE",
         "chapter": "VIII",
+        "total": 57,
         "wordcount": 1734,
         "characters": {
             "Pierre": 0,
@@ -2054,6 +2111,7 @@
     {
         "book": "THREE",
         "chapter": "IX",
+        "total": 58,
         "wordcount": 2368,
         "characters": {
             "Pierre": 0,
@@ -2090,6 +2148,7 @@
     {
         "book": "THREE",
         "chapter": "X",
+        "total": 59,
         "wordcount": 1928,
         "characters": {
             "Pierre": 0,
@@ -2126,6 +2185,7 @@
     {
         "book": "THREE",
         "chapter": "XI",
+        "total": 60,
         "wordcount": 1560,
         "characters": {
             "Pierre": 0,
@@ -2162,6 +2222,7 @@
     {
         "book": "THREE",
         "chapter": "XII",
+        "total": 61,
         "wordcount": 2395,
         "characters": {
             "Pierre": 0,
@@ -2198,6 +2259,7 @@
     {
         "book": "THREE",
         "chapter": "XIII",
+        "total": 62,
         "wordcount": 2155,
         "characters": {
             "Pierre": 0,
@@ -2234,6 +2296,7 @@
     {
         "book": "THREE",
         "chapter": "XIV",
+        "total": 63,
         "wordcount": 2035,
         "characters": {
             "Pierre": 0,
@@ -2270,6 +2333,7 @@
     {
         "book": "THREE",
         "chapter": "XV",
+        "total": 64,
         "wordcount": 2179,
         "characters": {
             "Pierre": 0,
@@ -2306,6 +2370,7 @@
     {
         "book": "THREE",
         "chapter": "XVI",
+        "total": 65,
         "wordcount": 1483,
         "characters": {
             "Pierre": 0,
@@ -2342,6 +2407,7 @@
     {
         "book": "THREE",
         "chapter": "XVII",
+        "total": 66,
         "wordcount": 1928,
         "characters": {
             "Pierre": 0,
@@ -2378,6 +2444,7 @@
     {
         "book": "THREE",
         "chapter": "XVIII",
+        "total": 67,
         "wordcount": 2649,
         "characters": {
             "Pierre": 0,
@@ -2414,6 +2481,7 @@
     {
         "book": "THREE",
         "chapter": "XIX",
+        "total": 68,
         "wordcount": 1579,
         "characters": {
             "Pierre": 0,
@@ -2450,6 +2518,7 @@
     {
         "book": "FOUR",
         "chapter": "I",
+        "total": 69,
         "wordcount": 2972,
         "characters": {
             "Pierre": 0,
@@ -2486,6 +2555,7 @@
     {
         "book": "FOUR",
         "chapter": "II",
+        "total": 70,
         "wordcount": 2301,
         "characters": {
             "Pierre": 4,
@@ -2522,6 +2592,7 @@
     {
         "book": "FOUR",
         "chapter": "III",
+        "total": 71,
         "wordcount": 1916,
         "characters": {
             "Pierre": 2,
@@ -2558,6 +2629,7 @@
     {
         "book": "FOUR",
         "chapter": "IV",
+        "total": 72,
         "wordcount": 1918,
         "characters": {
             "Pierre": 31,
@@ -2594,6 +2666,7 @@
     {
         "book": "FOUR",
         "chapter": "V",
+        "total": 73,
         "wordcount": 854,
         "characters": {
             "Pierre": 8,
@@ -2630,6 +2703,7 @@
     {
         "book": "FOUR",
         "chapter": "VI",
+        "total": 74,
         "wordcount": 1852,
         "characters": {
             "Pierre": 15,
@@ -2666,6 +2740,7 @@
     {
         "book": "FOUR",
         "chapter": "VII",
+        "total": 75,
         "wordcount": 1259,
         "characters": {
             "Pierre": 0,
@@ -2702,6 +2777,7 @@
     {
         "book": "FOUR",
         "chapter": "VIII",
+        "total": 76,
         "wordcount": 1609,
         "characters": {
             "Pierre": 0,
@@ -2738,6 +2814,7 @@
     {
         "book": "FOUR",
         "chapter": "IX",
+        "total": 77,
         "wordcount": 923,
         "characters": {
             "Pierre": 0,
@@ -2774,6 +2851,7 @@
     {
         "book": "FOUR",
         "chapter": "X",
+        "total": 78,
         "wordcount": 1322,
         "characters": {
             "Pierre": 1,
@@ -2810,6 +2888,7 @@
     {
         "book": "FOUR",
         "chapter": "XI",
+        "total": 79,
         "wordcount": 942,
         "characters": {
             "Pierre": 1,
@@ -2846,6 +2925,7 @@
     {
         "book": "FOUR",
         "chapter": "XII",
+        "total": 80,
         "wordcount": 1215,
         "characters": {
             "Pierre": 0,
@@ -2882,6 +2962,7 @@
     {
         "book": "FOUR",
         "chapter": "XIII",
+        "total": 81,
         "wordcount": 1208,
         "characters": {
             "Pierre": 0,
@@ -2918,6 +2999,7 @@
     {
         "book": "FOUR",
         "chapter": "XIV",
+        "total": 82,
         "wordcount": 1113,
         "characters": {
             "Pierre": 0,
@@ -2954,6 +3036,7 @@
     {
         "book": "FOUR",
         "chapter": "XV",
+        "total": 83,
         "wordcount": 1263,
         "characters": {
             "Pierre": 0,
@@ -2990,6 +3073,7 @@
     {
         "book": "FOUR",
         "chapter": "XVI",
+        "total": 84,
         "wordcount": 1293,
         "characters": {
             "Pierre": 0,
@@ -3026,6 +3110,7 @@
     {
         "book": "FIVE",
         "chapter": "I",
+        "total": 85,
         "wordcount": 1295,
         "characters": {
             "Pierre": 19,
@@ -3062,6 +3147,7 @@
     {
         "book": "FIVE",
         "chapter": "II",
+        "total": 86,
         "wordcount": 2346,
         "characters": {
             "Pierre": 32,
@@ -3098,6 +3184,7 @@
     {
         "book": "FIVE",
         "chapter": "III",
+        "total": 87,
         "wordcount": 2652,
         "characters": {
             "Pierre": 44,
@@ -3134,6 +3221,7 @@
     {
         "book": "FIVE",
         "chapter": "IV",
+        "total": 88,
         "wordcount": 1465,
         "characters": {
             "Pierre": 23,
@@ -3170,6 +3258,7 @@
     {
         "book": "FIVE",
         "chapter": "V",
+        "total": 89,
         "wordcount": 723,
         "characters": {
             "Pierre": 9,
@@ -3206,6 +3295,7 @@
     {
         "book": "FIVE",
         "chapter": "VI",
+        "total": 90,
         "wordcount": 1651,
         "characters": {
             "Pierre": 6,
@@ -3242,6 +3332,7 @@
     {
         "book": "FIVE",
         "chapter": "VII",
+        "total": 91,
         "wordcount": 564,
         "characters": {
             "Pierre": 0,
@@ -3278,6 +3369,7 @@
     {
         "book": "FIVE",
         "chapter": "VIII",
+        "total": 92,
         "wordcount": 1568,
         "characters": {
             "Pierre": 0,
@@ -3314,6 +3406,7 @@
     {
         "book": "FIVE",
         "chapter": "IX",
+        "total": 93,
         "wordcount": 2124,
         "characters": {
             "Pierre": 0,
@@ -3350,6 +3443,7 @@
     {
         "book": "FIVE",
         "chapter": "X",
+        "total": 94,
         "wordcount": 1781,
         "characters": {
             "Pierre": 21,
@@ -3386,6 +3480,7 @@
     {
         "book": "FIVE",
         "chapter": "XI",
+        "total": 95,
         "wordcount": 3204,
         "characters": {
             "Pierre": 37,
@@ -3422,6 +3517,7 @@
     {
         "book": "FIVE",
         "chapter": "XII",
+        "total": 96,
         "wordcount": 1412,
         "characters": {
             "Pierre": 23,
@@ -3458,6 +3554,7 @@
     {
         "book": "FIVE",
         "chapter": "XIII",
+        "total": 97,
         "wordcount": 1508,
         "characters": {
             "Pierre": 18,
@@ -3494,6 +3591,7 @@
     {
         "book": "FIVE",
         "chapter": "XIV",
+        "total": 98,
         "wordcount": 879,
         "characters": {
             "Pierre": 14,
@@ -3530,6 +3628,7 @@
     {
         "book": "FIVE",
         "chapter": "XV",
+        "total": 99,
         "wordcount": 1668,
         "characters": {
             "Pierre": 0,
@@ -3566,6 +3665,7 @@
     {
         "book": "FIVE",
         "chapter": "XVI",
+        "total": 100,
         "wordcount": 2015,
         "characters": {
             "Pierre": 0,
@@ -3602,6 +3702,7 @@
     {
         "book": "FIVE",
         "chapter": "XVII",
+        "total": 101,
         "wordcount": 1372,
         "characters": {
             "Pierre": 0,
@@ -3638,6 +3739,7 @@
     {
         "book": "FIVE",
         "chapter": "XVIII",
+        "total": 102,
         "wordcount": 1069,
         "characters": {
             "Pierre": 0,
@@ -3674,6 +3776,7 @@
     {
         "book": "FIVE",
         "chapter": "XIX",
+        "total": 103,
         "wordcount": 1562,
         "characters": {
             "Pierre": 0,
@@ -3710,6 +3813,7 @@
     {
         "book": "FIVE",
         "chapter": "XX",
+        "total": 104,
         "wordcount": 1442,
         "characters": {
             "Pierre": 0,
@@ -3746,6 +3850,7 @@
     {
         "book": "FIVE",
         "chapter": "XXI",
+        "total": 105,
         "wordcount": 1753,
         "characters": {
             "Pierre": 0,
@@ -3782,6 +3887,7 @@
     {
         "book": "FIVE",
         "chapter": "XXII",
+        "total": 106,
         "wordcount": 149,
         "characters": {
             "Pierre": 0,
@@ -3818,6 +3924,7 @@
     {
         "book": "SIX",
         "chapter": "I",
+        "total": 107,
         "wordcount": 948,
         "characters": {
             "Pierre": 4,
@@ -3854,6 +3961,7 @@
     {
         "book": "SIX",
         "chapter": "II",
+        "total": 108,
         "wordcount": 1034,
         "characters": {
             "Pierre": 0,
@@ -3890,6 +3998,7 @@
     {
         "book": "SIX",
         "chapter": "III",
+        "total": 109,
         "wordcount": 930,
         "characters": {
             "Pierre": 3,
@@ -3926,6 +4035,7 @@
     {
         "book": "SIX",
         "chapter": "IV",
+        "total": 110,
         "wordcount": 1118,
         "characters": {
             "Pierre": 0,
@@ -3962,6 +4072,7 @@
     {
         "book": "SIX",
         "chapter": "V",
+        "total": 111,
         "wordcount": 1942,
         "characters": {
             "Pierre": 0,
@@ -3998,6 +4109,7 @@
     {
         "book": "SIX",
         "chapter": "VI",
+        "total": 112,
         "wordcount": 1155,
         "characters": {
             "Pierre": 0,
@@ -4034,6 +4146,7 @@
     {
         "book": "SIX",
         "chapter": "VII",
+        "total": 113,
         "wordcount": 1648,
         "characters": {
             "Pierre": 17,
@@ -4070,6 +4183,7 @@
     {
         "book": "SIX",
         "chapter": "VIII",
+        "total": 114,
         "wordcount": 1277,
         "characters": {
             "Pierre": 5,
@@ -4106,6 +4220,7 @@
     {
         "book": "SIX",
         "chapter": "IX",
+        "total": 115,
         "wordcount": 922,
         "characters": {
             "Pierre": 10,
@@ -4142,6 +4257,7 @@
     {
         "book": "SIX",
         "chapter": "X",
+        "total": 116,
         "wordcount": 2030,
         "characters": {
             "Pierre": 2,
@@ -4178,6 +4294,7 @@
     {
         "book": "SIX",
         "chapter": "XI",
+        "total": 117,
         "wordcount": 1425,
         "characters": {
             "Pierre": 2,
@@ -4214,6 +4331,7 @@
     {
         "book": "SIX",
         "chapter": "XII",
+        "total": 118,
         "wordcount": 939,
         "characters": {
             "Pierre": 0,
@@ -4250,6 +4368,7 @@
     {
         "book": "SIX",
         "chapter": "XIII",
+        "total": 119,
         "wordcount": 1385,
         "characters": {
             "Pierre": 0,
@@ -4286,6 +4405,7 @@
     {
         "book": "SIX",
         "chapter": "XIV",
+        "total": 120,
         "wordcount": 1407,
         "characters": {
             "Pierre": 0,
@@ -4322,6 +4442,7 @@
     {
         "book": "SIX",
         "chapter": "XV",
+        "total": 121,
         "wordcount": 1086,
         "characters": {
             "Pierre": 4,
@@ -4358,6 +4479,7 @@
     {
         "book": "SIX",
         "chapter": "XVI",
+        "total": 122,
         "wordcount": 1417,
         "characters": {
             "Pierre": 3,
@@ -4394,6 +4516,7 @@
     {
         "book": "SIX",
         "chapter": "XVII",
+        "total": 123,
         "wordcount": 780,
         "characters": {
             "Pierre": 3,
@@ -4430,6 +4553,7 @@
     {
         "book": "SIX",
         "chapter": "XVIII",
+        "total": 124,
         "wordcount": 1726,
         "characters": {
             "Pierre": 0,
@@ -4466,6 +4590,7 @@
     {
         "book": "SIX",
         "chapter": "XIX",
+        "total": 125,
         "wordcount": 722,
         "characters": {
             "Pierre": 1,
@@ -4502,6 +4627,7 @@
     {
         "book": "SIX",
         "chapter": "XX",
+        "total": 126,
         "wordcount": 1198,
         "characters": {
             "Pierre": 6,
@@ -4538,6 +4664,7 @@
     {
         "book": "SIX",
         "chapter": "XXI",
+        "total": 127,
         "wordcount": 1127,
         "characters": {
             "Pierre": 17,
@@ -4574,6 +4701,7 @@
     {
         "book": "SIX",
         "chapter": "XXII",
+        "total": 128,
         "wordcount": 1449,
         "characters": {
             "Pierre": 13,
@@ -4610,6 +4738,7 @@
     {
         "book": "SIX",
         "chapter": "XXIII",
+        "total": 129,
         "wordcount": 2255,
         "characters": {
             "Pierre": 1,
@@ -4646,6 +4775,7 @@
     {
         "book": "SIX",
         "chapter": "XXIV",
+        "total": 130,
         "wordcount": 1134,
         "characters": {
             "Pierre": 3,
@@ -4682,6 +4812,7 @@
     {
         "book": "SIX",
         "chapter": "XXV",
+        "total": 131,
         "wordcount": 1435,
         "characters": {
             "Pierre": 0,
@@ -4718,6 +4849,7 @@
     {
         "book": "SIX",
         "chapter": "XXVI",
+        "total": 132,
         "wordcount": 1333,
         "characters": {
             "Pierre": 0,
@@ -4754,6 +4886,7 @@
     {
         "book": "SEVEN",
         "chapter": "I",
+        "total": 133,
         "wordcount": 1738,
         "characters": {
             "Pierre": 0,
@@ -4790,6 +4923,7 @@
     {
         "book": "SEVEN",
         "chapter": "II",
+        "total": 134,
         "wordcount": 756,
         "characters": {
             "Pierre": 0,
@@ -4826,6 +4960,7 @@
     {
         "book": "SEVEN",
         "chapter": "III",
+        "total": 135,
         "wordcount": 1099,
         "characters": {
             "Pierre": 0,
@@ -4862,6 +4997,7 @@
     {
         "book": "SEVEN",
         "chapter": "IV",
+        "total": 136,
         "wordcount": 2221,
         "characters": {
             "Pierre": 0,
@@ -4898,6 +5034,7 @@
     {
         "book": "SEVEN",
         "chapter": "V",
+        "total": 137,
         "wordcount": 1816,
         "characters": {
             "Pierre": 0,
@@ -4934,6 +5071,7 @@
     {
         "book": "SEVEN",
         "chapter": "VI",
+        "total": 138,
         "wordcount": 2640,
         "characters": {
             "Pierre": 0,
@@ -4970,6 +5108,7 @@
     {
         "book": "SEVEN",
         "chapter": "VII",
+        "total": 139,
         "wordcount": 3324,
         "characters": {
             "Pierre": 0,
@@ -5006,6 +5145,7 @@
     {
         "book": "SEVEN",
         "chapter": "VIII",
+        "total": 140,
         "wordcount": 1240,
         "characters": {
             "Pierre": 0,
@@ -5042,6 +5182,7 @@
     {
         "book": "SEVEN",
         "chapter": "IX",
+        "total": 141,
         "wordcount": 1457,
         "characters": {
             "Pierre": 0,
@@ -5078,6 +5219,7 @@
     {
         "book": "SEVEN",
         "chapter": "X",
+        "total": 142,
         "wordcount": 3169,
         "characters": {
             "Pierre": 0,
@@ -5114,6 +5256,7 @@
     {
         "book": "SEVEN",
         "chapter": "XI",
+        "total": 143,
         "wordcount": 1522,
         "characters": {
             "Pierre": 0,
@@ -5150,6 +5293,7 @@
     {
         "book": "SEVEN",
         "chapter": "XII",
+        "total": 144,
         "wordcount": 1146,
         "characters": {
             "Pierre": 0,
@@ -5186,6 +5330,7 @@
     {
         "book": "SEVEN",
         "chapter": "XIII",
+        "total": 145,
         "wordcount": 1176,
         "characters": {
             "Pierre": 0,
@@ -5222,6 +5367,7 @@
     {
         "book": "EIGHT",
         "chapter": "I",
+        "total": 146,
         "wordcount": 1980,
         "characters": {
             "Pierre": 12,
@@ -5258,6 +5404,7 @@
     {
         "book": "EIGHT",
         "chapter": "II",
+        "total": 147,
         "wordcount": 1453,
         "characters": {
             "Pierre": 0,
@@ -5294,6 +5441,7 @@
     {
         "book": "EIGHT",
         "chapter": "III",
+        "total": 148,
         "wordcount": 2111,
         "characters": {
             "Pierre": 3,
@@ -5330,6 +5478,7 @@
     {
         "book": "EIGHT",
         "chapter": "IV",
+        "total": 149,
         "wordcount": 970,
         "characters": {
             "Pierre": 13,
@@ -5366,6 +5515,7 @@
     {
         "book": "EIGHT",
         "chapter": "V",
+        "total": 150,
         "wordcount": 1737,
         "characters": {
             "Pierre": 0,
@@ -5402,6 +5552,7 @@
     {
         "book": "EIGHT",
         "chapter": "VI",
+        "total": 151,
         "wordcount": 1278,
         "characters": {
             "Pierre": 0,
@@ -5438,6 +5589,7 @@
     {
         "book": "EIGHT",
         "chapter": "VII",
+        "total": 152,
         "wordcount": 1427,
         "characters": {
             "Pierre": 0,
@@ -5474,6 +5626,7 @@
     {
         "book": "EIGHT",
         "chapter": "VIII",
+        "total": 153,
         "wordcount": 1490,
         "characters": {
             "Pierre": 2,
@@ -5510,6 +5663,7 @@
     {
         "book": "EIGHT",
         "chapter": "IX",
+        "total": 154,
         "wordcount": 1979,
         "characters": {
             "Pierre": 3,
@@ -5546,6 +5700,7 @@
     {
         "book": "EIGHT",
         "chapter": "X",
+        "total": 155,
         "wordcount": 1312,
         "characters": {
             "Pierre": 0,
@@ -5582,6 +5737,7 @@
     {
         "book": "EIGHT",
         "chapter": "XI",
+        "total": 156,
         "wordcount": 934,
         "characters": {
             "Pierre": 2,
@@ -5618,6 +5774,7 @@
     {
         "book": "EIGHT",
         "chapter": "XII",
+        "total": 157,
         "wordcount": 1249,
         "characters": {
             "Pierre": 2,
@@ -5654,6 +5811,7 @@
     {
         "book": "EIGHT",
         "chapter": "XIII",
+        "total": 158,
         "wordcount": 1169,
         "characters": {
             "Pierre": 0,
@@ -5690,6 +5848,7 @@
     {
         "book": "EIGHT",
         "chapter": "XIV",
+        "total": 159,
         "wordcount": 1176,
         "characters": {
             "Pierre": 0,
@@ -5726,6 +5885,7 @@
     {
         "book": "EIGHT",
         "chapter": "XV",
+        "total": 160,
         "wordcount": 2001,
         "characters": {
             "Pierre": 1,
@@ -5762,6 +5922,7 @@
     {
         "book": "EIGHT",
         "chapter": "XVI",
+        "total": 161,
         "wordcount": 1988,
         "characters": {
             "Pierre": 0,
@@ -5798,6 +5959,7 @@
     {
         "book": "EIGHT",
         "chapter": "XVII",
+        "total": 162,
         "wordcount": 906,
         "characters": {
             "Pierre": 0,
@@ -5834,6 +5996,7 @@
     {
         "book": "EIGHT",
         "chapter": "XVIII",
+        "total": 163,
         "wordcount": 1250,
         "characters": {
             "Pierre": 0,
@@ -5870,6 +6033,7 @@
     {
         "book": "EIGHT",
         "chapter": "XIX",
+        "total": 164,
         "wordcount": 1422,
         "characters": {
             "Pierre": 28,
@@ -5906,6 +6070,7 @@
     {
         "book": "EIGHT",
         "chapter": "XX",
+        "total": 165,
         "wordcount": 1182,
         "characters": {
             "Pierre": 31,
@@ -5942,6 +6107,7 @@
     {
         "book": "EIGHT",
         "chapter": "XXI",
+        "total": 166,
         "wordcount": 1477,
         "characters": {
             "Pierre": 33,
@@ -5978,6 +6144,7 @@
     {
         "book": "EIGHT",
         "chapter": "XXII",
+        "total": 167,
         "wordcount": 1133,
         "characters": {
             "Pierre": 21,
@@ -6014,6 +6181,7 @@
     {
         "book": "NINE",
         "chapter": "I",
+        "total": 168,
         "wordcount": 1793,
         "characters": {
             "Pierre": 0,
@@ -6050,6 +6218,7 @@
     {
         "book": "NINE",
         "chapter": "II",
+        "total": 169,
         "wordcount": 1565,
         "characters": {
             "Pierre": 0,
@@ -6086,6 +6255,7 @@
     {
         "book": "NINE",
         "chapter": "III",
+        "total": 170,
         "wordcount": 1435,
         "characters": {
             "Pierre": 0,
@@ -6122,6 +6292,7 @@
     {
         "book": "NINE",
         "chapter": "IV",
+        "total": 171,
         "wordcount": 1546,
         "characters": {
             "Pierre": 0,
@@ -6158,6 +6329,7 @@
     {
         "book": "NINE",
         "chapter": "V",
+        "total": 172,
         "wordcount": 855,
         "characters": {
             "Pierre": 0,
@@ -6194,6 +6366,7 @@
     {
         "book": "NINE",
         "chapter": "VI",
+        "total": 173,
         "wordcount": 2688,
         "characters": {
             "Pierre": 0,
@@ -6230,6 +6403,7 @@
     {
         "book": "NINE",
         "chapter": "VII",
+        "total": 174,
         "wordcount": 1210,
         "characters": {
             "Pierre": 0,
@@ -6266,6 +6440,7 @@
     {
         "book": "NINE",
         "chapter": "VIII",
+        "total": 175,
         "wordcount": 2443,
         "characters": {
             "Pierre": 3,
@@ -6302,6 +6477,7 @@
     {
         "book": "NINE",
         "chapter": "IX",
+        "total": 176,
         "wordcount": 2833,
         "characters": {
             "Pierre": 0,
@@ -6338,6 +6514,7 @@
     {
         "book": "NINE",
         "chapter": "X",
+        "total": 177,
         "wordcount": 1355,
         "characters": {
             "Pierre": 0,
@@ -6374,6 +6551,7 @@
     {
         "book": "NINE",
         "chapter": "XI",
+        "total": 178,
         "wordcount": 1975,
         "characters": {
             "Pierre": 0,
@@ -6410,6 +6588,7 @@
     {
         "book": "NINE",
         "chapter": "XII",
+        "total": 179,
         "wordcount": 1653,
         "characters": {
             "Pierre": 0,
@@ -6446,6 +6625,7 @@
     {
         "book": "NINE",
         "chapter": "XIII",
+        "total": 180,
         "wordcount": 1117,
         "characters": {
             "Pierre": 0,
@@ -6482,6 +6662,7 @@
     {
         "book": "NINE",
         "chapter": "XIV",
+        "total": 181,
         "wordcount": 1222,
         "characters": {
             "Pierre": 0,
@@ -6518,6 +6699,7 @@
     {
         "book": "NINE",
         "chapter": "XV",
+        "total": 182,
         "wordcount": 1297,
         "characters": {
             "Pierre": 0,
@@ -6554,6 +6736,7 @@
     {
         "book": "NINE",
         "chapter": "XVI",
+        "total": 183,
         "wordcount": 1223,
         "characters": {
             "Pierre": 0,
@@ -6590,6 +6773,7 @@
     {
         "book": "NINE",
         "chapter": "XVII",
+        "total": 184,
         "wordcount": 1385,
         "characters": {
             "Pierre": 4,
@@ -6626,6 +6810,7 @@
     {
         "book": "NINE",
         "chapter": "XVIII",
+        "total": 185,
         "wordcount": 2136,
         "characters": {
             "Pierre": 1,
@@ -6662,6 +6847,7 @@
     {
         "book": "NINE",
         "chapter": "XIX",
+        "total": 186,
         "wordcount": 1426,
         "characters": {
             "Pierre": 11,
@@ -6698,6 +6884,7 @@
     {
         "book": "NINE",
         "chapter": "XX",
+        "total": 187,
         "wordcount": 2278,
         "characters": {
             "Pierre": 25,
@@ -6734,6 +6921,7 @@
     {
         "book": "NINE",
         "chapter": "XXI",
+        "total": 188,
         "wordcount": 2095,
         "characters": {
             "Pierre": 0,
@@ -6770,6 +6958,7 @@
     {
         "book": "NINE",
         "chapter": "XXII",
+        "total": 189,
         "wordcount": 2200,
         "characters": {
             "Pierre": 24,
@@ -6806,6 +6995,7 @@
     {
         "book": "NINE",
         "chapter": "XXIII",
+        "total": 190,
         "wordcount": 710,
         "characters": {
             "Pierre": 6,
@@ -6842,6 +7032,7 @@
     {
         "book": "TEN",
         "chapter": "I",
+        "total": 191,
         "wordcount": 2142,
         "characters": {
             "Pierre": 0,
@@ -6878,6 +7069,7 @@
     {
         "book": "TEN",
         "chapter": "II",
+        "total": 192,
         "wordcount": 1664,
         "characters": {
             "Pierre": 0,
@@ -6914,6 +7106,7 @@
     {
         "book": "TEN",
         "chapter": "III",
+        "total": 193,
         "wordcount": 995,
         "characters": {
             "Pierre": 0,
@@ -6950,6 +7143,7 @@
     {
         "book": "TEN",
         "chapter": "IV",
+        "total": 194,
         "wordcount": 4107,
         "characters": {
             "Pierre": 0,
@@ -6986,6 +7180,7 @@
     {
         "book": "TEN",
         "chapter": "V",
+        "total": 195,
         "wordcount": 2819,
         "characters": {
             "Pierre": 0,
@@ -7022,6 +7217,7 @@
     {
         "book": "TEN",
         "chapter": "VI",
+        "total": 196,
         "wordcount": 1609,
         "characters": {
             "Pierre": 0,
@@ -7058,6 +7254,7 @@
     {
         "book": "TEN",
         "chapter": "VII",
+        "total": 197,
         "wordcount": 1255,
         "characters": {
             "Pierre": 0,
@@ -7094,6 +7291,7 @@
     {
         "book": "TEN",
         "chapter": "VIII",
+        "total": 198,
         "wordcount": 3343,
         "characters": {
             "Pierre": 0,
@@ -7130,6 +7328,7 @@
     {
         "book": "TEN",
         "chapter": "IX",
+        "total": 199,
         "wordcount": 1947,
         "characters": {
             "Pierre": 0,
@@ -7166,6 +7365,7 @@
     {
         "book": "TEN",
         "chapter": "X",
+        "total": 200,
         "wordcount": 1994,
         "characters": {
             "Pierre": 0,
@@ -7202,6 +7402,7 @@
     {
         "book": "TEN",
         "chapter": "XI",
+        "total": 201,
         "wordcount": 1050,
         "characters": {
             "Pierre": 0,
@@ -7238,6 +7439,7 @@
     {
         "book": "TEN",
         "chapter": "XII",
+        "total": 202,
         "wordcount": 856,
         "characters": {
             "Pierre": 0,
@@ -7274,6 +7476,7 @@
     {
         "book": "TEN",
         "chapter": "XIII",
+        "total": 203,
         "wordcount": 1468,
         "characters": {
             "Pierre": 0,
@@ -7310,6 +7513,7 @@
     {
         "book": "TEN",
         "chapter": "XIV",
+        "total": 204,
         "wordcount": 1904,
         "characters": {
             "Pierre": 0,
@@ -7346,6 +7550,7 @@
     {
         "book": "TEN",
         "chapter": "XV",
+        "total": 205,
         "wordcount": 2467,
         "characters": {
             "Pierre": 0,
@@ -7382,6 +7587,7 @@
     {
         "book": "TEN",
         "chapter": "XVI",
+        "total": 206,
         "wordcount": 1351,
         "characters": {
             "Pierre": 0,
@@ -7418,6 +7624,7 @@
     {
         "book": "TEN",
         "chapter": "XVII",
+        "total": 207,
         "wordcount": 1686,
         "characters": {
             "Pierre": 14,
@@ -7454,6 +7661,7 @@
     {
         "book": "TEN",
         "chapter": "XVIII",
+        "total": 208,
         "wordcount": 1877,
         "characters": {
             "Pierre": 29,
@@ -7490,6 +7698,7 @@
     {
         "book": "TEN",
         "chapter": "XIX",
+        "total": 209,
         "wordcount": 1995,
         "characters": {
             "Pierre": 0,
@@ -7526,6 +7735,7 @@
     {
         "book": "TEN",
         "chapter": "XX",
+        "total": 210,
         "wordcount": 1446,
         "characters": {
             "Pierre": 25,
@@ -7562,6 +7772,7 @@
     {
         "book": "TEN",
         "chapter": "XXI",
+        "total": 211,
         "wordcount": 1746,
         "characters": {
             "Pierre": 15,
@@ -7598,6 +7809,7 @@
     {
         "book": "TEN",
         "chapter": "XXII",
+        "total": 212,
         "wordcount": 1370,
         "characters": {
             "Pierre": 24,
@@ -7634,6 +7846,7 @@
     {
         "book": "TEN",
         "chapter": "XXIII",
+        "total": 213,
         "wordcount": 706,
         "characters": {
             "Pierre": 8,
@@ -7670,6 +7883,7 @@
     {
         "book": "TEN",
         "chapter": "XXIV",
+        "total": 214,
         "wordcount": 1073,
         "characters": {
             "Pierre": 4,
@@ -7706,6 +7920,7 @@
     {
         "book": "TEN",
         "chapter": "XXV",
+        "total": 215,
         "wordcount": 3009,
         "characters": {
             "Pierre": 19,
@@ -7742,6 +7957,7 @@
     {
         "book": "TEN",
         "chapter": "XXVI",
+        "total": 216,
         "wordcount": 1517,
         "characters": {
             "Pierre": 0,
@@ -7778,6 +7994,7 @@
     {
         "book": "TEN",
         "chapter": "XXVII",
+        "total": 217,
         "wordcount": 1255,
         "characters": {
             "Pierre": 0,
@@ -7814,6 +8031,7 @@
     {
         "book": "TEN",
         "chapter": "XXVIII",
+        "total": 218,
         "wordcount": 1111,
         "characters": {
             "Pierre": 0,
@@ -7850,6 +8068,7 @@
     {
         "book": "TEN",
         "chapter": "XXIX",
+        "total": 219,
         "wordcount": 1073,
         "characters": {
             "Pierre": 0,
@@ -7886,6 +8105,7 @@
     {
         "book": "TEN",
         "chapter": "XXX",
+        "total": 220,
         "wordcount": 1197,
         "characters": {
             "Pierre": 15,
@@ -7922,6 +8142,7 @@
     {
         "book": "TEN",
         "chapter": "XXXI",
+        "total": 221,
         "wordcount": 2971,
         "characters": {
             "Pierre": 51,
@@ -7958,6 +8179,7 @@
     {
         "book": "TEN",
         "chapter": "XXXII",
+        "total": 222,
         "wordcount": 734,
         "characters": {
             "Pierre": 10,
@@ -7994,6 +8216,7 @@
     {
         "book": "TEN",
         "chapter": "XXXIII",
+        "total": 223,
         "wordcount": 1263,
         "characters": {
             "Pierre": 1,
@@ -8030,6 +8253,7 @@
     {
         "book": "TEN",
         "chapter": "XXXIV",
+        "total": 224,
         "wordcount": 1783,
         "characters": {
             "Pierre": 0,
@@ -8066,6 +8290,7 @@
     {
         "book": "TEN",
         "chapter": "XXXV",
+        "total": 225,
         "wordcount": 1572,
         "characters": {
             "Pierre": 1,
@@ -8102,6 +8327,7 @@
     {
         "book": "TEN",
         "chapter": "XXXVI",
+        "total": 226,
         "wordcount": 1942,
         "characters": {
             "Pierre": 0,
@@ -8138,6 +8364,7 @@
     {
         "book": "TEN",
         "chapter": "XXXVII",
+        "total": 227,
         "wordcount": 1164,
         "characters": {
             "Pierre": 0,
@@ -8174,6 +8401,7 @@
     {
         "book": "TEN",
         "chapter": "XXXVIII",
+        "total": 228,
         "wordcount": 1267,
         "characters": {
             "Pierre": 0,
@@ -8210,6 +8438,7 @@
     {
         "book": "TEN",
         "chapter": "XXXIX",
+        "total": 229,
         "wordcount": 1092,
         "characters": {
             "Pierre": 0,
@@ -8246,6 +8475,7 @@
     {
         "book": "ELEVEN",
         "chapter": "I",
+        "total": 230,
         "wordcount": 1328,
         "characters": {
             "Pierre": 0,
@@ -8282,6 +8512,7 @@
     {
         "book": "ELEVEN",
         "chapter": "II",
+        "total": 231,
         "wordcount": 1326,
         "characters": {
             "Pierre": 0,
@@ -8318,6 +8549,7 @@
     {
         "book": "ELEVEN",
         "chapter": "III",
+        "total": 232,
         "wordcount": 1060,
         "characters": {
             "Pierre": 0,
@@ -8354,6 +8586,7 @@
     {
         "book": "ELEVEN",
         "chapter": "IV",
+        "total": 233,
         "wordcount": 1408,
         "characters": {
             "Pierre": 0,
@@ -8390,6 +8623,7 @@
     {
         "book": "ELEVEN",
         "chapter": "V",
+        "total": 234,
         "wordcount": 1034,
         "characters": {
             "Pierre": 0,
@@ -8426,6 +8660,7 @@
     {
         "book": "ELEVEN",
         "chapter": "VI",
+        "total": 235,
         "wordcount": 1370,
         "characters": {
             "Pierre": 0,
@@ -8462,6 +8697,7 @@
     {
         "book": "ELEVEN",
         "chapter": "VII",
+        "total": 236,
         "wordcount": 1563,
         "characters": {
             "Pierre": 2,
@@ -8498,6 +8734,7 @@
     {
         "book": "ELEVEN",
         "chapter": "VIII",
+        "total": 237,
         "wordcount": 828,
         "characters": {
             "Pierre": 16,
@@ -8534,6 +8771,7 @@
     {
         "book": "ELEVEN",
         "chapter": "IX",
+        "total": 238,
         "wordcount": 1242,
         "characters": {
             "Pierre": 20,
@@ -8570,6 +8808,7 @@
     {
         "book": "ELEVEN",
         "chapter": "X",
+        "total": 239,
         "wordcount": 1382,
         "characters": {
             "Pierre": 15,
@@ -8606,6 +8845,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XI",
+        "total": 240,
         "wordcount": 852,
         "characters": {
             "Pierre": 16,
@@ -8642,6 +8882,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XII",
+        "total": 241,
         "wordcount": 1545,
         "characters": {
             "Pierre": 0,
@@ -8678,6 +8919,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XIII",
+        "total": 242,
         "wordcount": 1412,
         "characters": {
             "Pierre": 0,
@@ -8714,6 +8956,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XIV",
+        "total": 243,
         "wordcount": 1091,
         "characters": {
             "Pierre": 0,
@@ -8750,6 +8993,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XV",
+        "total": 244,
         "wordcount": 1312,
         "characters": {
             "Pierre": 0,
@@ -8786,6 +9030,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XVI",
+        "total": 245,
         "wordcount": 1943,
         "characters": {
             "Pierre": 0,
@@ -8822,6 +9067,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XVII",
+        "total": 246,
         "wordcount": 1746,
         "characters": {
             "Pierre": 8,
@@ -8858,6 +9104,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XVIII",
+        "total": 247,
         "wordcount": 1313,
         "characters": {
             "Pierre": 28,
@@ -8894,6 +9141,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XIX",
+        "total": 248,
         "wordcount": 1671,
         "characters": {
             "Pierre": 0,
@@ -8930,6 +9178,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XX",
+        "total": 249,
         "wordcount": 947,
         "characters": {
             "Pierre": 0,
@@ -8966,6 +9215,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXI",
+        "total": 250,
         "wordcount": 1020,
         "characters": {
             "Pierre": 0,
@@ -9002,6 +9252,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXII",
+        "total": 251,
         "wordcount": 893,
         "characters": {
             "Pierre": 0,
@@ -9038,6 +9289,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXIII",
+        "total": 252,
         "wordcount": 1616,
         "characters": {
             "Pierre": 0,
@@ -9074,6 +9326,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXIV",
+        "total": 253,
         "wordcount": 1470,
         "characters": {
             "Pierre": 0,
@@ -9110,6 +9363,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXV",
+        "total": 254,
         "wordcount": 3564,
         "characters": {
             "Pierre": 0,
@@ -9146,6 +9400,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXVI",
+        "total": 255,
         "wordcount": 2116,
         "characters": {
             "Pierre": 0,
@@ -9182,6 +9437,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXVII",
+        "total": 256,
         "wordcount": 1573,
         "characters": {
             "Pierre": 16,
@@ -9218,6 +9474,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXVIII",
+        "total": 257,
         "wordcount": 1070,
         "characters": {
             "Pierre": 18,
@@ -9254,6 +9511,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXIX",
+        "total": 258,
         "wordcount": 3882,
         "characters": {
             "Pierre": 70,
@@ -9290,6 +9548,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXX",
+        "total": 259,
         "wordcount": 668,
         "characters": {
             "Pierre": 0,
@@ -9326,6 +9585,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXXI",
+        "total": 260,
         "wordcount": 1760,
         "characters": {
             "Pierre": 0,
@@ -9362,6 +9622,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXXII",
+        "total": 261,
         "wordcount": 2412,
         "characters": {
             "Pierre": 0,
@@ -9398,6 +9659,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXXIII",
+        "total": 262,
         "wordcount": 2597,
         "characters": {
             "Pierre": 39,
@@ -9434,6 +9696,7 @@
     {
         "book": "ELEVEN",
         "chapter": "XXXIV",
+        "total": 263,
         "wordcount": 1680,
         "characters": {
             "Pierre": 31,
@@ -9470,6 +9733,7 @@
     {
         "book": "TWELVE",
         "chapter": "I",
+        "total": 264,
         "wordcount": 1406,
         "characters": {
             "Pierre": 0,
@@ -9506,6 +9770,7 @@
     {
         "book": "TWELVE",
         "chapter": "II",
+        "total": 265,
         "wordcount": 962,
         "characters": {
             "Pierre": 1,
@@ -9542,6 +9807,7 @@
     {
         "book": "TWELVE",
         "chapter": "III",
+        "total": 266,
         "wordcount": 1038,
         "characters": {
             "Pierre": 0,
@@ -9578,6 +9844,7 @@
     {
         "book": "TWELVE",
         "chapter": "IV",
+        "total": 267,
         "wordcount": 1946,
         "characters": {
             "Pierre": 1,
@@ -9614,6 +9881,7 @@
     {
         "book": "TWELVE",
         "chapter": "V",
+        "total": 268,
         "wordcount": 1284,
         "characters": {
             "Pierre": 0,
@@ -9650,6 +9918,7 @@
     {
         "book": "TWELVE",
         "chapter": "VI",
+        "total": 269,
         "wordcount": 1635,
         "characters": {
             "Pierre": 0,
@@ -9686,6 +9955,7 @@
     {
         "book": "TWELVE",
         "chapter": "VII",
+        "total": 270,
         "wordcount": 1758,
         "characters": {
             "Pierre": 0,
@@ -9722,6 +9992,7 @@
     {
         "book": "TWELVE",
         "chapter": "VIII",
+        "total": 271,
         "wordcount": 1538,
         "characters": {
             "Pierre": 0,
@@ -9758,6 +10029,7 @@
     {
         "book": "TWELVE",
         "chapter": "IX",
+        "total": 272,
         "wordcount": 872,
         "characters": {
             "Pierre": 14,
@@ -9794,6 +10066,7 @@
     {
         "book": "TWELVE",
         "chapter": "X",
+        "total": 273,
         "wordcount": 1508,
         "characters": {
             "Pierre": 32,
@@ -9830,6 +10103,7 @@
     {
         "book": "TWELVE",
         "chapter": "XI",
+        "total": 274,
         "wordcount": 1504,
         "characters": {
             "Pierre": 21,
@@ -9866,6 +10140,7 @@
     {
         "book": "TWELVE",
         "chapter": "XII",
+        "total": 275,
         "wordcount": 2231,
         "characters": {
             "Pierre": 29,
@@ -9902,6 +10177,7 @@
     {
         "book": "TWELVE",
         "chapter": "XIII",
+        "total": 276,
         "wordcount": 1131,
         "characters": {
             "Pierre": 13,
@@ -9938,6 +10214,7 @@
     {
         "book": "TWELVE",
         "chapter": "XIV",
+        "total": 277,
         "wordcount": 2078,
         "characters": {
             "Pierre": 0,
@@ -9974,6 +10251,7 @@
     {
         "book": "TWELVE",
         "chapter": "XV",
+        "total": 278,
         "wordcount": 1548,
         "characters": {
             "Pierre": 0,
@@ -10010,6 +10288,7 @@
     {
         "book": "TWELVE",
         "chapter": "XVI",
+        "total": 279,
         "wordcount": 2199,
         "characters": {
             "Pierre": 0,
@@ -10046,6 +10325,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "I",
+        "total": 280,
         "wordcount": 1273,
         "characters": {
             "Pierre": 0,
@@ -10082,6 +10362,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "II",
+        "total": 281,
         "wordcount": 816,
         "characters": {
             "Pierre": 0,
@@ -10118,6 +10399,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "III",
+        "total": 282,
         "wordcount": 1106,
         "characters": {
             "Pierre": 0,
@@ -10154,6 +10436,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "IV",
+        "total": 283,
         "wordcount": 765,
         "characters": {
             "Pierre": 0,
@@ -10190,6 +10473,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "V",
+        "total": 284,
         "wordcount": 563,
         "characters": {
             "Pierre": 0,
@@ -10226,6 +10510,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "VI",
+        "total": 285,
         "wordcount": 1334,
         "characters": {
             "Pierre": 0,
@@ -10262,6 +10547,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "VII",
+        "total": 286,
         "wordcount": 833,
         "characters": {
             "Pierre": 0,
@@ -10298,6 +10584,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "VIII",
+        "total": 287,
         "wordcount": 802,
         "characters": {
             "Pierre": 0,
@@ -10334,6 +10621,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "IX",
+        "total": 288,
         "wordcount": 1336,
         "characters": {
             "Pierre": 0,
@@ -10370,6 +10658,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "X",
+        "total": 289,
         "wordcount": 1296,
         "characters": {
             "Pierre": 0,
@@ -10406,6 +10695,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XI",
+        "total": 290,
         "wordcount": 1643,
         "characters": {
             "Pierre": 20,
@@ -10442,6 +10732,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XII",
+        "total": 291,
         "wordcount": 1087,
         "characters": {
             "Pierre": 8,
@@ -10478,6 +10769,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XIII",
+        "total": 292,
         "wordcount": 1292,
         "characters": {
             "Pierre": 20,
@@ -10514,6 +10806,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XIV",
+        "total": 293,
         "wordcount": 1757,
         "characters": {
             "Pierre": 17,
@@ -10550,6 +10843,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XV",
+        "total": 294,
         "wordcount": 933,
         "characters": {
             "Pierre": 0,
@@ -10586,6 +10880,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XVI",
+        "total": 295,
         "wordcount": 999,
         "characters": {
             "Pierre": 0,
@@ -10622,6 +10917,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XVII",
+        "total": 296,
         "wordcount": 1131,
         "characters": {
             "Pierre": 0,
@@ -10658,6 +10954,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XVIII",
+        "total": 297,
         "wordcount": 681,
         "characters": {
             "Pierre": 0,
@@ -10694,6 +10991,7 @@
     {
         "book": "THIRTEEN",
         "chapter": "XIX",
+        "total": 298,
         "wordcount": 816,
         "characters": {
             "Pierre": 0,
@@ -10730,6 +11028,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "I",
+        "total": 299,
         "wordcount": 1233,
         "characters": {
             "Pierre": 0,
@@ -10766,6 +11065,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "II",
+        "total": 300,
         "wordcount": 901,
         "characters": {
             "Pierre": 0,
@@ -10802,6 +11102,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "III",
+        "total": 301,
         "wordcount": 1071,
         "characters": {
             "Pierre": 0,
@@ -10838,6 +11139,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "IV",
+        "total": 302,
         "wordcount": 1367,
         "characters": {
             "Pierre": 0,
@@ -10874,6 +11176,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "V",
+        "total": 303,
         "wordcount": 1405,
         "characters": {
             "Pierre": 0,
@@ -10910,6 +11213,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "VI",
+        "total": 304,
         "wordcount": 912,
         "characters": {
             "Pierre": 0,
@@ -10946,6 +11250,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "VII",
+        "total": 305,
         "wordcount": 1441,
         "characters": {
             "Pierre": 0,
@@ -10982,6 +11287,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "VIII",
+        "total": 306,
         "wordcount": 947,
         "characters": {
             "Pierre": 0,
@@ -11018,6 +11324,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "IX",
+        "total": 307,
         "wordcount": 1209,
         "characters": {
             "Pierre": 0,
@@ -11054,6 +11361,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "X",
+        "total": 308,
         "wordcount": 1589,
         "characters": {
             "Pierre": 0,
@@ -11090,6 +11398,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XI",
+        "total": 309,
         "wordcount": 1094,
         "characters": {
             "Pierre": 1,
@@ -11126,6 +11435,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XII",
+        "total": 310,
         "wordcount": 1253,
         "characters": {
             "Pierre": 11,
@@ -11162,6 +11472,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XIII",
+        "total": 311,
         "wordcount": 1260,
         "characters": {
             "Pierre": 11,
@@ -11198,6 +11509,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XIV",
+        "total": 312,
         "wordcount": 580,
         "characters": {
             "Pierre": 15,
@@ -11234,6 +11546,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XV",
+        "total": 313,
         "wordcount": 921,
         "characters": {
             "Pierre": 11,
@@ -11270,6 +11583,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XVI",
+        "total": 314,
         "wordcount": 631,
         "characters": {
             "Pierre": 0,
@@ -11306,6 +11620,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XVII",
+        "total": 315,
         "wordcount": 672,
         "characters": {
             "Pierre": 0,
@@ -11342,6 +11657,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XVIII",
+        "total": 316,
         "wordcount": 650,
         "characters": {
             "Pierre": 0,
@@ -11378,6 +11694,7 @@
     {
         "book": "FOURTEEN",
         "chapter": "XIX",
+        "total": 317,
         "wordcount": 1785,
         "characters": {
             "Pierre": 0,
@@ -11414,6 +11731,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "I",
+        "total": 318,
         "wordcount": 1566,
         "characters": {
             "Pierre": 0,
@@ -11450,6 +11768,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "II",
+        "total": 319,
         "wordcount": 857,
         "characters": {
             "Pierre": 0,
@@ -11486,6 +11805,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "III",
+        "total": 320,
         "wordcount": 1040,
         "characters": {
             "Pierre": 0,
@@ -11522,6 +11842,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "IV",
+        "total": 321,
         "wordcount": 1202,
         "characters": {
             "Pierre": 0,
@@ -11558,6 +11879,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "V",
+        "total": 322,
         "wordcount": 1273,
         "characters": {
             "Pierre": 0,
@@ -11594,6 +11916,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VI",
+        "total": 323,
         "wordcount": 1114,
         "characters": {
             "Pierre": 0,
@@ -11630,6 +11953,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VII",
+        "total": 324,
         "wordcount": 935,
         "characters": {
             "Pierre": 0,
@@ -11666,6 +11990,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VIII",
+        "total": 325,
         "wordcount": 1498,
         "characters": {
             "Pierre": 0,
@@ -11702,6 +12027,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "IX",
+        "total": 326,
         "wordcount": 900,
         "characters": {
             "Pierre": 0,
@@ -11738,6 +12064,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "X",
+        "total": 327,
         "wordcount": 2136,
         "characters": {
             "Pierre": 0,
@@ -11774,6 +12101,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XI",
+        "total": 328,
         "wordcount": 615,
         "characters": {
             "Pierre": 0,
@@ -11810,6 +12138,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XII",
+        "total": 329,
         "wordcount": 1151,
         "characters": {
             "Pierre": 6,
@@ -11846,6 +12175,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XIII",
+        "total": 330,
         "wordcount": 2066,
         "characters": {
             "Pierre": 33,
@@ -11882,6 +12212,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XIV",
+        "total": 331,
         "wordcount": 837,
         "characters": {
             "Pierre": 0,
@@ -11918,6 +12249,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XV",
+        "total": 332,
         "wordcount": 1253,
         "characters": {
             "Pierre": 21,
@@ -11954,6 +12286,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XVI",
+        "total": 333,
         "wordcount": 986,
         "characters": {
             "Pierre": 14,
@@ -11990,6 +12323,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XVII",
+        "total": 334,
         "wordcount": 1929,
         "characters": {
             "Pierre": 31,
@@ -12026,6 +12360,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XVIII",
+        "total": 335,
         "wordcount": 2003,
         "characters": {
             "Pierre": 30,
@@ -12062,6 +12397,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XIX",
+        "total": 336,
         "wordcount": 739,
         "characters": {
             "Pierre": 4,
@@ -12098,6 +12434,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XX",
+        "total": 337,
         "wordcount": 575,
         "characters": {
             "Pierre": 4,
@@ -12134,6 +12471,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "I",
+        "total": 338,
         "wordcount": 1131,
         "characters": {
             "Pierre": 0,
@@ -12170,6 +12508,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "II",
+        "total": 339,
         "wordcount": 727,
         "characters": {
             "Pierre": 0,
@@ -12206,6 +12545,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "III",
+        "total": 340,
         "wordcount": 1746,
         "characters": {
             "Pierre": 0,
@@ -12242,6 +12582,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "IV",
+        "total": 341,
         "wordcount": 978,
         "characters": {
             "Pierre": 0,
@@ -12278,6 +12619,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "V",
+        "total": 342,
         "wordcount": 1270,
         "characters": {
             "Pierre": 2,
@@ -12314,6 +12656,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VI",
+        "total": 343,
         "wordcount": 1639,
         "characters": {
             "Pierre": 0,
@@ -12350,6 +12693,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VII",
+        "total": 344,
         "wordcount": 1308,
         "characters": {
             "Pierre": 1,
@@ -12386,6 +12730,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VIII",
+        "total": 345,
         "wordcount": 1417,
         "characters": {
             "Pierre": 0,
@@ -12422,6 +12767,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "IX",
+        "total": 346,
         "wordcount": 2158,
         "characters": {
             "Pierre": 3,
@@ -12458,6 +12804,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "X",
+        "total": 347,
         "wordcount": 1967,
         "characters": {
             "Pierre": 11,
@@ -12494,6 +12841,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XI",
+        "total": 348,
         "wordcount": 1278,
         "characters": {
             "Pierre": 13,
@@ -12530,6 +12878,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XII",
+        "total": 349,
         "wordcount": 1840,
         "characters": {
             "Pierre": 26,
@@ -12566,6 +12915,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XIII",
+        "total": 350,
         "wordcount": 1302,
         "characters": {
             "Pierre": 18,
@@ -12602,6 +12952,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XIV",
+        "total": 351,
         "wordcount": 1985,
         "characters": {
             "Pierre": 24,
@@ -12638,6 +12989,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XV",
+        "total": 352,
         "wordcount": 1876,
         "characters": {
             "Pierre": 6,
@@ -12674,6 +13026,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XVI",
+        "total": 353,
         "wordcount": 1939,
         "characters": {
             "Pierre": 22,
@@ -12710,6 +13063,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "I",
+        "total": 354,
         "wordcount": 1771,
         "characters": {
             "Pierre": 0,
@@ -12746,6 +13100,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "II",
+        "total": 355,
         "wordcount": 1635,
         "characters": {
             "Pierre": 0,
@@ -12782,6 +13137,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "III",
+        "total": 356,
         "wordcount": 879,
         "characters": {
             "Pierre": 0,
@@ -12818,6 +13174,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "IV",
+        "total": 357,
         "wordcount": 2369,
         "characters": {
             "Pierre": 0,
@@ -12854,6 +13211,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "V",
+        "total": 358,
         "wordcount": 1116,
         "characters": {
             "Pierre": 0,
@@ -12890,6 +13248,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VI",
+        "total": 359,
         "wordcount": 1373,
         "characters": {
             "Pierre": 0,
@@ -12926,6 +13285,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VII",
+        "total": 360,
         "wordcount": 1296,
         "characters": {
             "Pierre": 0,
@@ -12962,6 +13322,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "VIII",
+        "total": 361,
         "wordcount": 1705,
         "characters": {
             "Pierre": 0,
@@ -12998,6 +13359,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "IX",
+        "total": 362,
         "wordcount": 2122,
         "characters": {
             "Pierre": 0,
@@ -13034,6 +13396,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "X",
+        "total": 363,
         "wordcount": 2014,
         "characters": {
             "Pierre": 0,
@@ -13070,6 +13433,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XI",
+        "total": 364,
         "wordcount": 613,
         "characters": {
             "Pierre": 0,
@@ -13106,6 +13470,7 @@
     {
         "book": "FIFTEEN",
         "chapter": "XII",
+        "total": 365,
         "wordcount": 844,
         "characters": {
             "Pierre": 0,

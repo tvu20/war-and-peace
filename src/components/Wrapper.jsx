@@ -3,8 +3,6 @@ import { useState, useEffect, useCallback } from "react";
 import { ProgressBar } from "./ProgressBar";
 import { Page } from "./Page";
 
-import generalData from "../data/general-info";
-
 export const Wrapper = () => {
   const [page, setPage] = useState(0);
   const max = 15;

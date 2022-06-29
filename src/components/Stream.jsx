@@ -84,7 +84,6 @@ export const Stream = (props) => {
       if (time < 1) {
         return;
       } else {
-        console.log("resetting");
         time = 0;
       }
       Tooltip.style("visibility", "visible");
@@ -102,7 +101,7 @@ export const Stream = (props) => {
       Tooltip.html(
         "<h2>" + current.title + "</h2><p>" + current.description + "</p>"
       )
-        .style("left", leftValue + "px")
+        .style("left", leftValue + 10 + "px")
         .style("top", event.clientY + "px");
     };
     const mouseleave = function (d) {

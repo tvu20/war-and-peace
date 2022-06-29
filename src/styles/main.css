@@ -1,3 +1,5 @@
+/* GENERAL */
+
 body {
   margin: 0px;
   font-family: "Roboto", sans-serif;
@@ -15,10 +17,20 @@ body {
   top: 0;
 }
 
+.btn-container {
+  display: flex;
+}
+
+.btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
 .fade-in {
   -webkit-animation: fadein 0.5s linear forwards;
   animation: fadein 0.5s linear forwards;
-  padding: 10px;
+  /* padding: 10px; */
 }
 
 @-webkit-keyframes fadein {
@@ -38,6 +50,8 @@ body {
     opacity: 1;
   }
 }
+
+/* FLEX ITEMS */
 
 .flex-legend {
   display: flex;
@@ -59,4 +73,23 @@ body {
   color: inherit;
   background-color: currentColor;
   margin-right: 5px;
+}
+
+/* ARROWS */
+
+.arrow {
+  border: solid #543719;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
 }

@@ -10,8 +10,8 @@ export const Page = (props) => {
     switch (page) {
       // case 0:
       //   return <TitlePage />;
-      // case 0:
-      //   return <AllCharacters />;
+      case 1:
+        return <AllCharacters />;
       case 0:
         return <AllCharactersBook />;
       default:

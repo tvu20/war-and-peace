@@ -5,8 +5,9 @@ import { Legend } from "./Legend";
 import "../styles/stream.css";
 import colors from "../data/colors.json";
 import { convertNumber } from "../functions/convert";
+import { findBounds } from "../functions/bounds";
+import { capitalizeFirstLetter } from "../functions/strings";
 
-import bookParts from "../data/parts";
 import characters from "../data/characters";
 
 export const StreamBook = (props) => {
@@ -26,6 +27,11 @@ export const StreamBook = (props) => {
     setCurrentBook(currentBook - 1);
   };
 
+  const bookName = () => {
+    if (bookData.length === 0) return;
+    return "Book " + capitalizeFirstLetter(bookData[0].book);
+  };
+
   useEffect(() => {
     if (!data) return;
     const newData = data.filter((chap) => {
@@ -38,7 +44,7 @@ export const StreamBook = (props) => {
     return { top: 20, right: 30, bottom: 0, left: 30 };
   }, []);
   const width = wWidth - 150 - margin.left - margin.right;
-  const height = wHeight - 280 - margin.top - margin.bottom;
+  const height = wHeight - 360 - margin.top - margin.bottom;
 
   useEffect(() => {
     let time = 0;
@@ -68,30 +74,18 @@ export const StreamBook = (props) => {
     svg
       .append("g")
       .attr("transform", "translate(0," + height * 0.9 + ")")
-      //   .call(
-      //     d3
-      //       .axisBottom(x)
-      //       .tickFormat((d) => bookParts[String(d)])
-      //       .tickSize(-height * 0.8)
-      //       //   .tickValues([1, 4, 9, 11])
-      //       .tickValues([1, 69, 168, 264, 338])
-      //   )
       .select(".domain")
       .remove();
-    // svg.selectAll(".tick line").attr("stroke", "#bdae9f");
-    // svg
-    //   .selectAll(".tick text")
-    //   .attr("y", -6)
-    //   .attr("x", 4)
-    //   .style("text-anchor", "start");
-
-    // Add Y axis
-    const y = d3.scaleLinear().domain([-60, 60]).range([height, 0]);
 
     // stack
     const stackedData = d3.stack().offset(d3.stackOffsetSilhouette).keys(keys)(
       bookData
     );
+    findBounds(stackedData);
+    const boundaries = findBounds(stackedData);
+
+    // Add Y axis
+    const y = d3.scaleLinear().domain(boundaries).range([height, 0]);
 
     // create a tooltip
     var Tooltip = d3
@@ -106,7 +100,6 @@ export const StreamBook = (props) => {
       if (time < 1) {
         return;
       } else {
-        console.log("resetting");
         time = 0;
       }
       Tooltip.style("visibility", "visible");
@@ -124,7 +117,7 @@ export const StreamBook = (props) => {
       Tooltip.html(
         "<h2>" + current.title + "</h2><p>" + current.description + "</p>"
       )
-        .style("left", leftValue + "px")
+        .style("left", leftValue + 10 + "px")
         .style("top", event.clientY + "px");
     };
     const mouseleave = function (d) {
@@ -166,14 +159,25 @@ export const StreamBook = (props) => {
   return (
     <div className="page-container fade-in">
       <Legend keys={keys} />
-      <button onClick={prevBook}>prev</button>
-      <button onClick={nextBook}>next</button>
       <svg
         ref={ref}
-        width={width}
+        width={width - 300}
         height={height}
         style={{ padding: "30px" }}
       />
+      <div className="btn-container">
+        {currentBook !== 1 && (
+          <button onClick={prevBook} className="btn">
+            <i className="arrow left"></i>
+          </button>
+        )}
+        {currentBook !== sections && (
+          <button onClick={nextBook} className="btn">
+            <i className="arrow right"></i>
+          </button>
+        )}
+      </div>
+      <p>{bookName()}</p>
     </div>
   );
 };

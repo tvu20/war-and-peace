@@ -1,16 +1,38 @@
-import React, { useEffect, useRef, useMemo } from "react";
+import React, { useState, useEffect, useRef, useMemo } from "react";
 import * as d3 from "d3";
 import { Legend } from "./Legend";
 
 import "../styles/stream.css";
 import colors from "../data/colors.json";
+import { convertNumber } from "../functions/convert";
 
 import bookParts from "../data/parts";
 import characters from "../data/characters";
 
-export const Stream = (props) => {
-  const { data, keys, wWidth, wHeight } = props;
+export const StreamBook = (props) => {
+  const { data, keys, wWidth, wHeight, sections } = props;
   const ref = useRef();
+
+  const [currentBook, setCurrentBook] = useState(1);
+  const [bookData, setBookData] = useState([]);
+
+  const nextBook = () => {
+    if (currentBook === sections) return;
+    setCurrentBook(currentBook + 1);
+  };
+
+  const prevBook = () => {
+    if (currentBook === 1) return;
+    setCurrentBook(currentBook - 1);
+  };
+
+  useEffect(() => {
+    if (!data) return;
+    const newData = data.filter((chap) => {
+      return convertNumber(chap.book) === currentBook;
+    });
+    setBookData(newData);
+  }, [currentBook, data]);
 
   const margin = useMemo(() => {
     return { top: 20, right: 30, bottom: 0, left: 30 };
@@ -37,7 +59,7 @@ export const Stream = (props) => {
     const x = d3
       .scaleLinear()
       .domain(
-        d3.extent(data, function (d) {
+        d3.extent(bookData, function (d) {
           return d.total;
           //   return convertNumber(d.book);
         })
@@ -46,29 +68,29 @@ export const Stream = (props) => {
     svg
       .append("g")
       .attr("transform", "translate(0," + height * 0.9 + ")")
-      .call(
-        d3
-          .axisBottom(x)
-          .tickFormat((d) => bookParts[String(d)])
-          .tickSize(-height * 0.8)
-          //   .tickValues([1, 4, 9, 11])
-          .tickValues([1, 69, 168, 264, 338])
-      )
+      //   .call(
+      //     d3
+      //       .axisBottom(x)
+      //       .tickFormat((d) => bookParts[String(d)])
+      //       .tickSize(-height * 0.8)
+      //       //   .tickValues([1, 4, 9, 11])
+      //       .tickValues([1, 69, 168, 264, 338])
+      //   )
       .select(".domain")
       .remove();
-    svg.selectAll(".tick line").attr("stroke", "#bdae9f");
-    svg
-      .selectAll(".tick text")
-      .attr("y", -6)
-      .attr("x", 4)
-      .style("text-anchor", "start");
+    // svg.selectAll(".tick line").attr("stroke", "#bdae9f");
+    // svg
+    //   .selectAll(".tick text")
+    //   .attr("y", -6)
+    //   .attr("x", 4)
+    //   .style("text-anchor", "start");
 
     // Add Y axis
     const y = d3.scaleLinear().domain([-60, 60]).range([height, 0]);
 
     // stack
     const stackedData = d3.stack().offset(d3.stackOffsetSilhouette).keys(keys)(
-      data
+      bookData
     );
 
     // create a tooltip
@@ -139,11 +161,13 @@ export const Stream = (props) => {
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave);
-  }, [data, keys, margin, height, width, wWidth]);
+  }, [bookData, data, keys, margin, height, width, wWidth]);
 
   return (
     <div className="page-container fade-in">
       <Legend keys={keys} />
+      <button onClick={prevBook}>prev</button>
+      <button onClick={nextBook}>next</button>
       <svg
         ref={ref}
         width={width}

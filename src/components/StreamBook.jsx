@@ -14,7 +14,7 @@ export const StreamBook = (props) => {
   const { data, keys, wWidth, wHeight, sections } = props;
   const ref = useRef();
 
-  const [currentBook, setCurrentBook] = useState(1);
+  const [currentBook, setCurrentBook] = useState(15);
   const [bookData, setBookData] = useState([]);
 
   const nextBook = () => {
@@ -22,13 +22,18 @@ export const StreamBook = (props) => {
     setCurrentBook(currentBook + 1);
   };
 
-  const prevBook = () => {
+  const lastBook = () => {
     if (currentBook === 1) return;
     setCurrentBook(currentBook - 1);
   };
 
   const bookName = () => {
     if (bookData.length === 0) return;
+    if (bookData[0].book.includes("EPILOGUE")) {
+      return (
+        capitalizeFirstLetter(bookData[0].book.split(" ")[0]) + " Epilogue"
+      );
+    }
     return "Book " + capitalizeFirstLetter(bookData[0].book);
   };
 
@@ -54,6 +59,8 @@ export const StreamBook = (props) => {
     const svg = d3.select(ref.current);
     svg.selectAll("*").remove();
 
+    d3.selectAll(".tooltip").remove();
+
     svg
       .append("svg")
       .attr("width", width + margin.left + margin.right)
@@ -67,7 +74,6 @@ export const StreamBook = (props) => {
       .domain(
         d3.extent(bookData, function (d) {
           return d.total;
-          //   return convertNumber(d.book);
         })
       )
       .range([0, width]);
@@ -83,7 +89,6 @@ export const StreamBook = (props) => {
     );
     findBounds(stackedData);
     const boundaries = findBounds(stackedData);
-
     // Add Y axis
     const y = d3.scaleLinear().domain(boundaries).range([height, 0]);
 
@@ -106,6 +111,7 @@ export const StreamBook = (props) => {
       d3.selectAll(".myArea").style("opacity", 0.2);
       d3.select(this)
         .style("opacity", 1)
+        .style("transition", "opacity 0.3s")
         .style("stroke", (d) => colors[d.key]);
     };
     const mousemove = function (event, i) {
@@ -154,6 +160,10 @@ export const StreamBook = (props) => {
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave);
+
+    return () => {
+      d3.selectAll(".tooltip").remove();
+    };
   }, [bookData, data, keys, margin, height, width, wWidth]);
 
   return (
@@ -167,7 +177,7 @@ export const StreamBook = (props) => {
       />
       <div className="btn-container">
         {currentBook !== 1 && (
-          <button onClick={prevBook} className="btn">
+          <button onClick={lastBook} className="btn">
             <i className="arrow left"></i>
           </button>
         )}

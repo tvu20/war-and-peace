@@ -6,7 +6,6 @@ import "../styles/stream.css";
 import colors from "../data/colors.json";
 
 import bookParts from "../data/parts";
-import characters from "../data/characters";
 
 export const Stream = (props) => {
   const { data, keys, wWidth, wHeight } = props;
@@ -19,7 +18,6 @@ export const Stream = (props) => {
   const height = wHeight - 280 - margin.top - margin.bottom;
 
   useEffect(() => {
-    let time = 0;
     if (!keys) return;
 
     // select root element to append things to
@@ -39,7 +37,6 @@ export const Stream = (props) => {
       .domain(
         d3.extent(data, function (d) {
           return d.total;
-          //   return convertNumber(d.book);
         })
       )
       .range([0, width]);
@@ -51,7 +48,6 @@ export const Stream = (props) => {
           .axisBottom(x)
           .tickFormat((d) => bookParts[String(d)])
           .tickSize(-height * 0.8)
-          //   .tickValues([1, 4, 9, 11])
           .tickValues([1, 69, 168, 264, 338])
       )
       .select(".domain")
@@ -70,44 +66,6 @@ export const Stream = (props) => {
     const stackedData = d3.stack().offset(d3.stackOffsetSilhouette).keys(keys)(
       data
     );
-
-    // create a tooltip
-    var Tooltip = d3
-      .select("body")
-      .append("div")
-      .attr("class", "tooltip")
-      .style("visibility", "hidden");
-
-    // Three function that change the tooltip when user hover / move / leave a cell
-    const mouseover = function (d) {
-      time++;
-      if (time < 1) {
-        return;
-      } else {
-        time = 0;
-      }
-      Tooltip.style("visibility", "visible");
-      d3.selectAll(".myArea").style("opacity", 0.2);
-      d3.select(this)
-        .style("opacity", 1)
-        .style("stroke", (d) => colors[d.key]);
-    };
-    const mousemove = function (event, i) {
-      const current = characters.filter((e) => e.name === i.key)[0];
-
-      const leftValue =
-        event.clientX + 250 > wWidth ? event.clientX - 180 : event.clientX;
-
-      Tooltip.html(
-        "<h2>" + current.title + "</h2><p>" + current.description + "</p>"
-      )
-        .style("left", leftValue + 10 + "px")
-        .style("top", event.clientY + "px");
-    };
-    const mouseleave = function (d) {
-      Tooltip.style("visibility", "hidden");
-      d3.selectAll(".myArea").style("opacity", 1).style("stroke", "none");
-    };
 
     // Area generator
     var area = d3
@@ -134,10 +92,7 @@ export const Stream = (props) => {
         return colors[d.key];
       })
       .style("fill-opacity", 0.6)
-      .attr("d", area)
-      .on("mouseover", mouseover)
-      .on("mousemove", mousemove)
-      .on("mouseleave", mouseleave);
+      .attr("d", area);
   }, [data, keys, margin, height, width, wWidth]);
 
   return (

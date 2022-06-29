@@ -20,6 +20,8 @@ const NUMBERS = {
   EIGHTEEN: 18,
   NINETEEN: 19,
   TWENTY: 20,
+  "FIRST EPILOGUE": 16,
+  "SECOND EPILOGUE": 17,
 };
 
 export const convertNumber = (str) => {
@@ -27,5 +29,5 @@ export const convertNumber = (str) => {
     if (num === str) return NUMBERS[num];
   }
 
-  return 0;
+  return str;
 };

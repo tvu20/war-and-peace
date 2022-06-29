@@ -9,6 +9,7 @@ import { findBounds } from "../functions/bounds";
 import { capitalizeFirstLetter } from "../functions/strings";
 
 import characters from "../data/characters";
+import books from "../data/books";
 
 export const StreamBook = (props) => {
   const { data, keys, wWidth, wHeight, sections } = props;
@@ -29,12 +30,30 @@ export const StreamBook = (props) => {
 
   const bookName = () => {
     if (bookData.length === 0) return;
-    if (bookData[0].book.includes("EPILOGUE")) {
-      return (
-        capitalizeFirstLetter(bookData[0].book.split(" ")[0]) + " Epilogue"
-      );
+    let bookName = bookData[0].book;
+
+    let title;
+    let description;
+
+    if (bookName.includes("EPILOGUE")) {
+      title = capitalizeFirstLetter(bookName.split(" ")[0]) + " Epilogue";
+    } else {
+      title = "Book " + capitalizeFirstLetter(bookName);
     }
-    return "Book " + capitalizeFirstLetter(bookData[0].book);
+
+    for (const b of books) {
+      if (b.book === bookName) {
+        title += b.tag ? ": " + b.tag : "";
+        description = b.description;
+      }
+    }
+
+    return (
+      <div className="book-info">
+        <h4>{title}</h4>
+        <p>{description}</p>
+      </div>
+    );
   };
 
   useEffect(() => {
@@ -187,7 +206,9 @@ export const StreamBook = (props) => {
           </button>
         )}
       </div>
-      <p>{bookName()}</p>
+      {bookName()}
+      {/* <h4>{bookName()}</h4>
+      <p>{bookDescription()}</p> */}
     </div>
   );
 };

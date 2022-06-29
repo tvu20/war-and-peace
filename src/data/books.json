@@ -1,38 +1,87 @@
 [
   {
     "book": "ONE",
-    "tag": "1805"
+    "tag": "1805",
+    "description": "The major characters are introduced through a soiree, a celebration at the Rostovs, and the isolated Bolkonsky country estate. Prince Andrei and Pierre Bezukhov discuss their futures and aspirations in life, idolizing the man who is soon to invade Russia. Old Count Bezuhov passes away, leaving Pierre the most eligible bachelor in Petersburg."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "TWO",
+    "tag": "1805",
+    "description": "Nikolai Rostov and Prince Andrei undergo their first war experiences at the battle of  Schöngraben. They discover the ineffectualities of the individual in a mass situation, but while Nikolai accepts being a cog in the machine, Andrei chooses to fight at the frontlines and wants to be a hero."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "THREE",
+    "tag": "1805",
+    "description": "Pierre marries Helene Kuragin; Anatole unsuccessfully courts Princess Marya. Andrei is wounded during the battle of Austerlitz, and observes that compared to the limitless sky above, symbolizing death, Napoleon appears petty and insignificant."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "FOUR",
+    "tag": "1806",
+    "description": "Nikolai returns home on leave and distances himself from his childhood sweetheart, Sonya. Pierre duels and wounds Dolohov over Helene's alleged infidelity. Lise Bolkonsky passes away in childbirth, leaving Andrei with a deep sense of guilt over his treatment of her. Nikolai suffers devastating losses in a card game against Dolohov."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "FIVE",
+    "tag": "1806 - 07",
+    "description": "Separated from his wife, Pierre devotes himself to the pursuit of goodness by becoming a mason. He and Andrei discuss the meaning of life and death and Andrei is inspired with new hope. Nikolai, having returned to his regiment, witnesses the meeting between Napoleon and Tsar Alexander, falling in love with the authority the Tsar represents."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "SIX",
+    "tag": "1808 - 10",
+    "description": "Andrei meets and falls in love with Natasha Rostov, bringing him a rejuvenated sense of life, but is prevented from marrying her immediately by his father and travels abroad. Pierre becomes disillusioned with masonry, while Marya becomes increasingly unhappy due to her father's treatment of her."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "SEVEN",
+    "tag": "1810 - 11",
+    "description": "With a wolf hunt, a sleigh ride, Christmas celebrations, and family harmony, the Rostovs enjoy the last period of their youth. Natasha's restlessness increases during Andrei's absense, and the family's financial problems continue to grow."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "EIGHT",
+    "tag": "1811 - 12",
+    "description": "Natasha meets Anatole during a trip to the opera and falls in love with him, breaking off her engagement with Andrei and planning to elope with Anatole. Pierre reveals Anatole's previous marriage and Natasha, devastated, falls seriously ill. Pierre comforts her and realizes that he has fallen in love with her."
   },
   {
-    "book": "ONE",
-    "tag": "1805"
+    "book": "NINE",
+    "tag": "1812",
+    "description": "The whole of Russia is affected by the coming confrontation between Napoleon and the Russian army. Andrei turns away from his past and commits himself to his regiment. Natasha slowly recovers, aided by religious faith. Petya Rostov joins the army out of youthful patriotism."
+  },
+  {
+    "book": "TEN",
+    "tag": "1812",
+    "description": "The Frenchmen march towards their room in the 'irresistible tide' of destiny. Old Prince Bolkonsky dies and Marya decides to move to Moscow. She is rescued during a chance meeting with Nikolai and they fall in love. Pierre visits the Battle of Borodino, which marks the turning point from defeat to victory for Russia."
+  },
+  {
+    "book": "ELEVEN",
+    "tag": "1812",
+    "description": "The inevitable burning of Moscow forces the Rostovs to flee with a caravan of dying and wounded soldiers from Borodino. Natasha discovers that Andrei is among them, and nurses him. Close to death, Andrei realizes the extent of his love for her and forgives her."
+  },
+  {
+    "book": "TWELVE",
+    "tag": "1812",
+    "description": "Nikolai and Marya reunite, and Sonya releases Nikolai from their engagement. Marya reunites with her brother and Natasha, and they remain by Andrei's side as he dies. Pierre is nearly executed by the French and becomes friends with a fellow prisoner, Karataev."
+  },
+  {
+    "book": "THIRTEEN",
+    "tag": "1812",
+    "description": "The end of the war is in sight as the French retreat more and more rapidly. Their retreat is the 'fruit' of 'unconscious activity' rather than the will of Napoleon. Pierre discovers intense freedom in prison."
+  },
+  {
+    "book": "FOURTEEN",
+    "tag": "1812",
+    "description": "Petya Rostov is killed in his first battle. After months of tribulation, during which the fever-plagued Karataev is shot by the French, Pierre is freed by a surprise attack led by Denisov and Dolohov."
+  },
+  {
+    "book": "FIFTEEN",
+    "tag": "1812",
+    "description": "Natasha and Marya are recalled from their mourning into active life: Marya by her household responsibilites and Natasha by comforting her mother. The victorious Russians rebuild Moscow. Pierre's wife Helene dies from an overdose. Pierre and Natasha are reunited and find love with each other."
+  },
+  {
+    "book": "FIRST EPILOGUE",
+    "tag": "1813 - 20",
+    "description": "Count Rostov passes away, leaving Nikolai in charge of the family's finances. He initially resists marrying the wealthy Marya Bolkonsky due to the Rostovs' financial ruin, but they discover they still love each other and marry alongside Pierre and Natasha. The two couples reside in Bald Hills with their children. Nikolenka, Andrei's son, comes of age and decides to do something that his late father would be satisfied with."
+  },
+  {
+    "book": "SECOND EPILOGUE",
+    "tag": "",
+    "description": "Tolstoy's critique of all existing forms of mainstream history. He explains that free will is a construct historians use to explain the movements of nations and people. We maintain the illusion of free will to carry on our lives, for our hopes depend on this notion of an inner consciousness; at the same time, we are victims of infinitesimal constraints of necessity that spell out our destinies."
   }
 ]

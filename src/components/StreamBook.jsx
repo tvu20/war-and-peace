@@ -15,7 +15,7 @@ export const StreamBook = (props) => {
   const { data, keys, wWidth, wHeight, sections } = props;
   const ref = useRef();
 
-  const [currentBook, setCurrentBook] = useState(15);
+  const [currentBook, setCurrentBook] = useState(1);
   const [bookData, setBookData] = useState([]);
 
   const nextBook = () => {
@@ -67,7 +67,7 @@ export const StreamBook = (props) => {
   const margin = useMemo(() => {
     return { top: 20, right: 30, bottom: 0, left: 30 };
   }, []);
-  const width = wWidth - 150 - margin.left - margin.right;
+  const width = wWidth - 350 - margin.left - margin.right;
   const height = wHeight - 360 - margin.top - margin.bottom;
 
   useEffect(() => {
@@ -137,7 +137,7 @@ export const StreamBook = (props) => {
       const current = characters.filter((e) => e.name === i.key)[0];
 
       const leftValue =
-        event.clientX + 250 > wWidth ? event.clientX - 180 : event.clientX;
+        event.clientX + 250 > wWidth ? event.clientX - 200 : event.clientX;
 
       Tooltip.html(
         "<h2>" + current.title + "</h2><p>" + current.description + "</p>"
@@ -190,7 +190,7 @@ export const StreamBook = (props) => {
       <Legend keys={keys} />
       <svg
         ref={ref}
-        width={width - 300}
+        width={width}
         height={height}
         style={{ padding: "30px" }}
       />
@@ -207,8 +207,6 @@ export const StreamBook = (props) => {
         )}
       </div>
       {bookName()}
-      {/* <h4>{bookName()}</h4>
-      <p>{bookDescription()}</p> */}
     </div>
   );
 };

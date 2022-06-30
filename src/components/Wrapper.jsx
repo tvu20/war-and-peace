@@ -43,6 +43,9 @@ export const Wrapper = () => {
     <>
       <ProgressBar current={page} total={max} />
       <Page page={page} />
+      <button className="btn next-btn" onClick={nextPage}>
+        Next
+      </button>
     </>
   );
 };

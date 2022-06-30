@@ -18,16 +18,6 @@ body {
   top: 0;
 }
 
-.btn-container {
-  display: flex;
-}
-
-.btn {
-  border: none;
-  background: none;
-  cursor: pointer;
-}
-
 .fade-in {
   -webkit-animation: fadein 0.5s linear forwards;
   animation: fadein 0.5s linear forwards;
@@ -50,6 +40,36 @@ body {
   100% {
     opacity: 1;
   }
+}
+
+/* BUTTONS */
+
+.btn-container {
+  display: flex;
+}
+
+.btn {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.next-btn {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10;
+  background-color: #faead4;
+  color: #998168;
+  /* border: 1px solid black; */
+  border-radius: 5px;
+  padding: 5px 30px;
+  font-size: 17px;
+}
+
+.next-btn:hover {
+  background-color: #b59d84;
+  color: #fff5e8;
 }
 
 /* FLEX ITEMS */

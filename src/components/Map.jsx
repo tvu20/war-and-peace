@@ -13,10 +13,10 @@ export const Map = (props) => {
   // Size ?
   const width = wWidth;
   const height = wHeight;
-  const scale = 900;
+  const scale = 1200;
 
   useEffect(() => {
-    const centerLocation = [40, 53];
+    const centerLocation = [30, 53];
     const svg = d3.select(ref.current);
     svg.selectAll("*").remove();
 
@@ -35,7 +35,8 @@ export const Map = (props) => {
     ).then((data) => {
       // Add a scale for bubble size
       var size = d3
-        .scaleLinear()
+        // .scaleLinear()
+        .scaleSqrt()
         .domain([1, 100]) // What's in the data
         .range([4, 50]); // Size in pixel
 
@@ -75,8 +76,66 @@ export const Map = (props) => {
         .attr("fill-opacity", 0.3)
         .attr("stroke-opacity", 0)
         .on("click", mouseclick);
+
+      // --------------- //
+      // ADD LEGEND //
+      // --------------- //
+      // Add legend: circles
+      var valuesToShow = [10, 50, 100];
+      var xCircle = 100;
+      var xLabel = 180;
+      var yCircle = wHeight - 50;
+      svg
+        .selectAll("legend")
+        .data(valuesToShow)
+        .enter()
+        .append("circle")
+        .attr("cx", xCircle)
+        .attr("cy", function (d) {
+          return yCircle - size(d);
+        })
+        .attr("r", function (d) {
+          return size(d);
+        })
+        .style("fill", "none")
+        .attr("stroke", "#524232");
+
+      // Add legend: segments
+      svg
+        .selectAll("legend")
+        .data(valuesToShow)
+        .enter()
+        .append("line")
+        .attr("x1", function (d) {
+          return xCircle + size(d);
+        })
+        .attr("x2", xLabel)
+        .attr("y1", function (d) {
+          return yCircle - size(d);
+        })
+        .attr("y2", function (d) {
+          return yCircle - size(d);
+        })
+        .attr("stroke", "#524232")
+        .style("stroke-dasharray", "2,2");
+
+      // Add legend: labels
+      svg
+        .selectAll("legend")
+        .data(valuesToShow)
+        .enter()
+        .append("text")
+        .attr("x", xLabel)
+        .attr("y", function (d) {
+          return yCircle - size(d);
+        })
+        .text(function (d) {
+          return d;
+        })
+        .style("font-size", 10)
+        .attr("alignment-baseline", "middle");
     });
-  }, [height, width, wWidth]);
+  }, [height, width, wWidth, wHeight]);
 
   const showDescription = () => {
     if (location === "") return;

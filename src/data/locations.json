@@ -1,0 +1,58 @@
+[
+  {
+    "long": 37.6173,
+    "lat": 55.7558,
+    "size": 722,
+    "name": "Moscow",
+    "title": "Moscow",
+    "description": "Home to the Rostov estate, Moscow is a city full of life and pleasure. Here is where the Rostovs celebrated their young daughter's name-day, Natasha was swept away by Anatole at the opera, and the inevitable burning of the city transpired."
+  },
+  {
+    "long": 30.3609,
+    "lat": 59.9311,
+    "size": 245,
+    "name": "St. Petersburg",
+    "title": "Petersburg",
+    "description": "Petersburg, the deeply political and pretentious capital of the Russian Empire. Pierre Bezukhov returned here at the beginning of the novel to see his dying father, inheriting his wealth nd estate. Years later, at a ball, Natasha Rostov dances with and is charmed by Prince Andrei."
+  },
+  {
+    "long": 16.8756,
+    "lat": 49.1533,
+    "size": 51,
+    "name": "Slakov u Brna",
+    "title": "Location of the Battle of Austerlitz",
+    "description": "The Battle of Austerlitz, also known as the Battle of the Three Emperors, was one of the most important and decisive engagements of Napoleonic Wars, taking place in 1805. Here, a wounded Prince Andrei lay on a field staring up at the sky when Napoleon appeared."
+  },
+  {
+    "long": 35.8199,
+    "lat": 55.528,
+    "size": 108,
+    "name": "Borodino",
+    "title": "Borodino Field",
+    "description": "The Battle of Borodino was a major engagement in the Napoleonic Wars during the French invasion of Russia. Why was the battle fought, as there was not the least sense in it for either the French or the Russians? The Russians would certainly lose Moscow, which they feared the most in the world, and the French would certainly face destruction, which Napoleon feared the msot in the world."
+  },
+  {
+    "long": 37.8282,
+    "lat": 53.921,
+    "size": 48,
+    "name": "Bogucharovo",
+    "title": "Bogucharovo Estate",
+    "description": "Prince Andrei lived here after the Battle of Austerlitz. Returning from South Russia to visit his close friend, Pierre was struck by the change in his friend: his words were kindly and there was a smile on his face, but his eyes were dull and he could not give them a joyous and glad sparkle."
+  },
+  {
+    "long": 30.8029,
+    "lat": 59.7783,
+    "size": 34,
+    "name": "Otradnoye",
+    "title": "Otradnoye Estate",
+    "description": "As Natasha admired the starry night with her cousin Sonya, Prince Andrei listened to her voice for the first time. Natasha, full of life and love, brought a different perspective on life to the deeply cynical Andrei."
+  },
+  {
+    "long": 32.0504,
+    "lat": 54.7903,
+    "size": 62,
+    "name": "Smolensk",
+    "title": "Bald Hills",
+    "description": "Bald Hills, the estate of the Old Prince Bolkonsky near Smolensk, for most of the novel remained a place of deep loneliness, as Prince Marya was tormented by her father and longed for her brother's visits. However, by the end of the novel, Bald Hills transformed into a household of love and life, as the Bezukhov-Rostov households took residence here together."
+  }
+]

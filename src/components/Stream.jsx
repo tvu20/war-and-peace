@@ -78,8 +78,8 @@ export const Stream = (props) => {
       })
       .y1(function (d) {
         return y(d[1]);
-      })
-      .curve(d3.curveMonotoneX);
+      });
+    // .curve(d3.curveMonotoneX);
 
     // Show the areas
     svg

@@ -4,6 +4,7 @@ body {
   margin: 0px;
   font-family: "Roboto", sans-serif;
   background-color: #faead4;
+  color: #524232;
 }
 
 .page-container {
@@ -78,7 +79,7 @@ body {
 /* ARROWS */
 
 .arrow {
-  border: solid #543719;
+  border: solid #856c51;
   border-width: 0 3px 3px 0;
   display: inline-block;
   padding: 3px;
@@ -92,4 +93,27 @@ body {
 .left {
   transform: rotate(135deg);
   -webkit-transform: rotate(135deg);
+}
+
+/* TOOLTIP */
+.tooltip {
+  position: absolute;
+  z-index: 10;
+  opacity: 0.9;
+  background-color: #fffcf7;
+  border-radius: 3px;
+  padding: 12px 15px;
+  width: 150px;
+  /* border: 1px solid black; */
+}
+
+.tooltip h2 {
+  margin: 0px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.tooltip p {
+  font-size: 13px;
+  margin: 0px;
 }

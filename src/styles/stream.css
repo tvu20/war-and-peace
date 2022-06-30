@@ -3,28 +3,6 @@
   color: #543719;
 }
 
-.tooltip {
-  position: absolute;
-  z-index: 10;
-  opacity: 0.9;
-  background-color: #fffcf7;
-  border-radius: 3px;
-  padding: 12px 15px;
-  width: 150px;
-  /* border: 1px solid black; */
-}
-
-.tooltip h2 {
-  margin: 0px;
-  margin-bottom: 5px;
-  font-size: 15px;
-}
-
-.tooltip p {
-  font-size: 13px;
-  margin: 0px;
-}
-
 .book-info {
   width: 60vw;
   margin-top: 20px;

@@ -3,6 +3,7 @@ import { TitlePage } from "../pages/TitlePage";
 import { AllCharacters } from "../pages/AllCharacters";
 import { AllCharactersBook } from "../pages/AllCharactersBook";
 import { Locations } from "../pages/Locations";
+import { Themes } from "../pages/Themes";
 
 export const Page = (props) => {
   const { page } = props;
@@ -15,8 +16,10 @@ export const Page = (props) => {
       //   return <AllCharacters />;
       // case 0:
       //   return <AllCharactersBook />;
+      // case 0:
+      //   return <Locations />;
       case 0:
-        return <Locations />;
+        return <Themes />;
       default:
         return <div>Doesn't exist yet sorry</div>;
     }

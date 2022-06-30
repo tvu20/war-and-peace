@@ -1,0 +1,767 @@
+[
+  {
+    "book": "ONE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 41
+      },
+      {
+        "theme": "beauty",
+        "amount": 28
+      },
+      {
+        "theme": "marriage",
+        "amount": 32
+      },
+      {
+        "theme": "religion",
+        "amount": 82
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 3
+      },
+      {
+        "theme": "war",
+        "amount": 101
+      },
+      {
+        "theme": "peace",
+        "amount": 10
+      },
+      {
+        "theme": "death",
+        "amount": 71
+      },
+      {
+        "theme": "history",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "book": "TWO",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 10
+      },
+      {
+        "theme": "beauty",
+        "amount": 2
+      },
+      {
+        "theme": "marriage",
+        "amount": 0
+      },
+      {
+        "theme": "religion",
+        "amount": 40
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 2
+      },
+      {
+        "theme": "war",
+        "amount": 99
+      },
+      {
+        "theme": "peace",
+        "amount": 14
+      },
+      {
+        "theme": "death",
+        "amount": 170
+      },
+      {
+        "theme": "history",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "book": "THREE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 64
+      },
+      {
+        "theme": "beauty",
+        "amount": 31
+      },
+      {
+        "theme": "marriage",
+        "amount": 20
+      },
+      {
+        "theme": "religion",
+        "amount": 48
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 18
+      },
+      {
+        "theme": "war",
+        "amount": 92
+      },
+      {
+        "theme": "peace",
+        "amount": 17
+      },
+      {
+        "theme": "death",
+        "amount": 107
+      },
+      {
+        "theme": "history",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "book": "FOUR",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 76
+      },
+      {
+        "theme": "beauty",
+        "amount": 8
+      },
+      {
+        "theme": "marriage",
+        "amount": 17
+      },
+      {
+        "theme": "religion",
+        "amount": 44
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 2
+      },
+      {
+        "theme": "war",
+        "amount": 43
+      },
+      {
+        "theme": "peace",
+        "amount": 1
+      },
+      {
+        "theme": "death",
+        "amount": 28
+      },
+      {
+        "theme": "history",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "book": "FIVE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 31
+      },
+      {
+        "theme": "beauty",
+        "amount": 3
+      },
+      {
+        "theme": "marriage",
+        "amount": 6
+      },
+      {
+        "theme": "religion",
+        "amount": 88
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 9
+      },
+      {
+        "theme": "war",
+        "amount": 100
+      },
+      {
+        "theme": "peace",
+        "amount": 10
+      },
+      {
+        "theme": "death",
+        "amount": 69
+      },
+      {
+        "theme": "history",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "book": "SIX",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 88
+      },
+      {
+        "theme": "beauty",
+        "amount": 12
+      },
+      {
+        "theme": "marriage",
+        "amount": 35
+      },
+      {
+        "theme": "religion",
+        "amount": 78
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 20
+      },
+      {
+        "theme": "war",
+        "amount": 43
+      },
+      {
+        "theme": "peace",
+        "amount": 4
+      },
+      {
+        "theme": "death",
+        "amount": 48
+      },
+      {
+        "theme": "history",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "book": "SEVEN",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 28
+      },
+      {
+        "theme": "beauty",
+        "amount": 4
+      },
+      {
+        "theme": "marriage",
+        "amount": 24
+      },
+      {
+        "theme": "religion",
+        "amount": 26
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 7
+      },
+      {
+        "theme": "war",
+        "amount": 54
+      },
+      {
+        "theme": "peace",
+        "amount": 4
+      },
+      {
+        "theme": "death",
+        "amount": 14
+      },
+      {
+        "theme": "history",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "book": "EIGHT",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 117
+      },
+      {
+        "theme": "beauty",
+        "amount": 10
+      },
+      {
+        "theme": "marriage",
+        "amount": 52
+      },
+      {
+        "theme": "religion",
+        "amount": 52
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 0
+      },
+      {
+        "theme": "war",
+        "amount": 43
+      },
+      {
+        "theme": "peace",
+        "amount": 10
+      },
+      {
+        "theme": "death",
+        "amount": 44
+      },
+      {
+        "theme": "history",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "book": "NINE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 39
+      },
+      {
+        "theme": "beauty",
+        "amount": 5
+      },
+      {
+        "theme": "marriage",
+        "amount": 6
+      },
+      {
+        "theme": "religion",
+        "amount": 160
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 0
+      },
+      {
+        "theme": "war",
+        "amount": 135
+      },
+      {
+        "theme": "peace",
+        "amount": 27
+      },
+      {
+        "theme": "death",
+        "amount": 28
+      },
+      {
+        "theme": "history",
+        "amount": 12
+      }
+    ]
+  },
+  {
+    "book": "TEN",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 43
+      },
+      {
+        "theme": "beauty",
+        "amount": 6
+      },
+      {
+        "theme": "marriage",
+        "amount": 6
+      },
+      {
+        "theme": "religion",
+        "amount": 124
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 4
+      },
+      {
+        "theme": "war",
+        "amount": 189
+      },
+      {
+        "theme": "peace",
+        "amount": 19
+      },
+      {
+        "theme": "death",
+        "amount": 177
+      },
+      {
+        "theme": "history",
+        "amount": 32
+      }
+    ]
+  },
+  {
+    "book": "ELEVEN",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 88
+      },
+      {
+        "theme": "beauty",
+        "amount": 16
+      },
+      {
+        "theme": "marriage",
+        "amount": 37
+      },
+      {
+        "theme": "religion",
+        "amount": 82
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 9
+      },
+      {
+        "theme": "war",
+        "amount": 91
+      },
+      {
+        "theme": "peace",
+        "amount": 9
+      },
+      {
+        "theme": "death",
+        "amount": 118
+      },
+      {
+        "theme": "history",
+        "amount": 18
+      }
+    ]
+  },
+  {
+    "book": "TWELVE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 71
+      },
+      {
+        "theme": "beauty",
+        "amount": 5
+      },
+      {
+        "theme": "marriage",
+        "amount": 22
+      },
+      {
+        "theme": "religion",
+        "amount": 100
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 7
+      },
+      {
+        "theme": "war",
+        "amount": 36
+      },
+      {
+        "theme": "peace",
+        "amount": 5
+      },
+      {
+        "theme": "death",
+        "amount": 104
+      },
+      {
+        "theme": "history",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "book": "THIRTEEN",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 1
+      },
+      {
+        "theme": "beauty",
+        "amount": 1
+      },
+      {
+        "theme": "marriage",
+        "amount": 0
+      },
+      {
+        "theme": "religion",
+        "amount": 24
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 3
+      },
+      {
+        "theme": "war",
+        "amount": 47
+      },
+      {
+        "theme": "peace",
+        "amount": 9
+      },
+      {
+        "theme": "death",
+        "amount": 63
+      },
+      {
+        "theme": "history",
+        "amount": 22
+      }
+    ]
+  },
+  {
+    "book": "FOURTEEN",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 7
+      },
+      {
+        "theme": "beauty",
+        "amount": 3
+      },
+      {
+        "theme": "marriage",
+        "amount": 1
+      },
+      {
+        "theme": "religion",
+        "amount": 32
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 4
+      },
+      {
+        "theme": "war",
+        "amount": 62
+      },
+      {
+        "theme": "peace",
+        "amount": 0
+      },
+      {
+        "theme": "death",
+        "amount": 52
+      },
+      {
+        "theme": "history",
+        "amount": 43
+      }
+    ]
+  },
+  {
+    "book": "FIFTEEN",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 49
+      },
+      {
+        "theme": "beauty",
+        "amount": 1
+      },
+      {
+        "theme": "marriage",
+        "amount": 4
+      },
+      {
+        "theme": "religion",
+        "amount": 16
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 7
+      },
+      {
+        "theme": "war",
+        "amount": 59
+      },
+      {
+        "theme": "peace",
+        "amount": 7
+      },
+      {
+        "theme": "death",
+        "amount": 98
+      },
+      {
+        "theme": "history",
+        "amount": 9
+      }
+    ]
+  },
+  {
+    "book": "FIRST EPILOGUE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 50
+      },
+      {
+        "theme": "beauty",
+        "amount": 5
+      },
+      {
+        "theme": "marriage",
+        "amount": 23
+      },
+      {
+        "theme": "religion",
+        "amount": 24
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 9
+      },
+      {
+        "theme": "war",
+        "amount": 44
+      },
+      {
+        "theme": "peace",
+        "amount": 9
+      },
+      {
+        "theme": "death",
+        "amount": 33
+      },
+      {
+        "theme": "history",
+        "amount": 23
+      }
+    ]
+  },
+  {
+    "book": "SECOND EPILOGUE",
+    "themes": [
+      {
+        "theme": "love",
+        "amount": 4
+      },
+      {
+        "theme": "beauty",
+        "amount": 0
+      },
+      {
+        "theme": "marriage",
+        "amount": 1
+      },
+      {
+        "theme": "religion",
+        "amount": 30
+      },
+      {
+        "theme": "religion",
+        "amount": 0
+      },
+      {
+        "theme": "dream",
+        "amount": 0
+      },
+      {
+        "theme": "war",
+        "amount": 25
+      },
+      {
+        "theme": "peace",
+        "amount": 4
+      },
+      {
+        "theme": "death",
+        "amount": 24
+      },
+      {
+        "theme": "history",
+        "amount": 241
+      }
+    ]
+  }
+]

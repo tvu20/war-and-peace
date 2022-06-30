@@ -14,3 +14,14 @@ export const findBounds = (arr) => {
 
   return [minValue, maxValue];
 };
+
+// receives bar graph data and returns highest value
+export const findMaxY = (arr) => {
+  if (!Array.isArray(arr)) return;
+
+  let maxValue = 0;
+  for (const item of arr) {
+    if (item.amount > maxValue) maxValue = item.amount;
+  }
+  return maxValue;
+};

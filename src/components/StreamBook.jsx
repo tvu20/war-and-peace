@@ -1,15 +1,14 @@
 import React, { useState, useEffect, useRef, useMemo } from "react";
 import * as d3 from "d3";
 import { Legend } from "./Legend";
+import { BookInfo } from "../functions/BookInfo";
 
 import "../styles/stream.css";
 import colors from "../data/colors.json";
 import { convertNumber } from "../functions/convert";
 import { findBounds } from "../functions/bounds";
-import { capitalizeFirstLetter } from "../functions/strings";
 
 import characters from "../data/characters";
-import books from "../data/books";
 
 export const StreamBook = (props) => {
   const { data, keys, wWidth, wHeight, sections } = props;
@@ -26,34 +25,6 @@ export const StreamBook = (props) => {
   const lastBook = () => {
     if (currentBook === 1) return;
     setCurrentBook(currentBook - 1);
-  };
-
-  const bookName = () => {
-    if (bookData.length === 0) return;
-    let bookName = bookData[0].book;
-
-    let title;
-    let description;
-
-    if (bookName.includes("EPILOGUE")) {
-      title = capitalizeFirstLetter(bookName.split(" ")[0]) + " Epilogue";
-    } else {
-      title = "Book " + capitalizeFirstLetter(bookName);
-    }
-
-    for (const b of books) {
-      if (b.book === bookName) {
-        title += b.tag ? ": " + b.tag : "";
-        description = b.description;
-      }
-    }
-
-    return (
-      <div className="book-info">
-        <h4>{title}</h4>
-        <p>{description}</p>
-      </div>
-    );
   };
 
   useEffect(() => {
@@ -206,7 +177,7 @@ export const StreamBook = (props) => {
           </button>
         )}
       </div>
-      {bookName()}
+      <BookInfo bookName={bookData.length ? bookData[0].book : null} />
     </div>
   );
 };

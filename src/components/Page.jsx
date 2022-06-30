@@ -14,8 +14,8 @@ export const Page = (props) => {
       //   return <TitlePage />;
       // case 1:
       //   return <AllCharacters />;
-      // case 0:
-      //   return <AllCharactersBook />;
+      case 1:
+        return <AllCharactersBook />;
       // case 0:
       //   return <Locations />;
       case 0:

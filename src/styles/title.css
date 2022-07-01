@@ -1,0 +1,23 @@
+.title-container {
+  width: 70vw;
+  text-align: left;
+}
+
+.title-container h1 {
+  font-size: 5em;
+  margin: 0;
+  margin-bottom: 5px;
+  font-family: "IBM Plex Mono", monospace;
+}
+
+.title-container h2 {
+  font-size: 17px;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 40px;
+  color: #85694d;
+}
+
+.title-container p {
+  font-size: 20px;
+}

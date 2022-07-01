@@ -1,5 +1,5 @@
 import books from "../data/books";
-import { capitalizeFirstLetter } from "./strings";
+import { capitalizeFirstLetter } from "../functions/strings";
 
 export const BookInfo = (props) => {
   const { bookName } = props;

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, useMemo } from "react";
 import * as d3 from "d3";
 import { Legend } from "./Legend";
-import { BookInfo } from "../functions/BookInfo";
+import { BookInfo } from "./BookInfo";
 
 import "../styles/stream.css";
 import colors from "../data/colors.json";

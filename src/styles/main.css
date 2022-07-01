@@ -46,6 +46,22 @@ body {
   }
 }
 
+/* SCROLLER */
+
+.scroller {
+  position: absolute;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.scroller p {
+  color: #ccbaa1;
+  font-size: 11px;
+  transition: margin 400s linear;
+}
+
 /* BUTTONS */
 
 .btn-container {

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, useMemo } from "react";
 import * as d3 from "d3";
 
-import { BookInfo } from "../functions/BookInfo";
+import { BookInfo } from "./BookInfo";
 
 import { convertNumber } from "../functions/convert";
 import { findMaxY } from "../functions/bounds";

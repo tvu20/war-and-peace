@@ -14,3 +14,8 @@ circle:hover {
   background: rgba(255, 255, 255, 0.75);
   padding: 10px 30px;
 }
+
+.map-description__heat {
+  width: 800px;
+  margin: 0px;
+}

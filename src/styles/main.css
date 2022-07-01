@@ -18,6 +18,10 @@ body {
   top: 0;
 }
 
+.helper-text {
+  font-size: 14px;
+}
+
 .fade-in {
   -webkit-animation: fadein 0.5s linear forwards;
   animation: fadein 0.5s linear forwards;
@@ -63,7 +67,7 @@ body {
   color: #998168;
   /* border: 1px solid black; */
   border-radius: 5px;
-  padding: 5px 30px;
+  padding: 10px 30px;
   font-size: 17px;
 }
 

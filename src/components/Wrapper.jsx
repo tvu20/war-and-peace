@@ -33,7 +33,7 @@ export const Wrapper = () => {
   useEffect(() => {
     window.addEventListener("keydown", handleKeyDown);
 
-    // cleanup this component
+    // cleanup
     return () => {
       window.removeEventListener("keydown", handleKeyDown);
     };

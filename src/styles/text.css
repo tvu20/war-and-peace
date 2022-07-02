@@ -1,0 +1,44 @@
+.title-container {
+  width: 70vw;
+  text-align: left;
+}
+
+.title-container h1 {
+  font-size: 6em;
+  margin: 0;
+  font-family: "Courier Prime", monospace;
+  line-height: 1;
+}
+
+.title-container h2 {
+  font-size: 17px;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 40px;
+  color: #85694d;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.title-container p {
+  font-size: 20px;
+}
+
+.title-container h4 {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+/* TEXT */
+
+.text-container {
+  padding: 20px 30px 10px;
+  background-color: rgba(250, 234, 212, 0.7);
+  width: 70vw;
+  text-align: left;
+}
+
+.text-container h2 {
+  font-size: 35px;
+  font-weight: 600;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+}

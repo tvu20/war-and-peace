@@ -5,7 +5,7 @@ import { Page } from "./Page";
 
 export const Wrapper = () => {
   const [page, setPage] = useState(0);
-  const max = 15;
+  const max = 13;
 
   const nextPage = () => {
     setPage((curr) => {
@@ -43,9 +43,11 @@ export const Wrapper = () => {
     <>
       <ProgressBar current={page} total={max} />
       <Page page={page} />
-      <button className="btn next-btn" onClick={nextPage}>
-        Next
-      </button>
+      {page !== max && (
+        <button className="btn next-btn" onClick={nextPage}>
+          Next
+        </button>
+      )}
     </>
   );
 };

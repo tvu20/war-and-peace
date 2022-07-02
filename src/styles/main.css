@@ -18,6 +18,17 @@ body {
   top: 0;
 }
 
+p {
+  font-size: 17px;
+  line-height: 1.4;
+}
+
+a {
+  color: #c7ac87;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .helper-text {
   font-size: 14px;
 }
@@ -52,6 +63,7 @@ body {
   position: absolute;
   top: 0;
   height: 100vh;
+  z-index: -1;
   /* width: 100%; */
   overflow: hidden;
   margin: 0 10px;

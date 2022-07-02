@@ -3,7 +3,6 @@ import { capitalizeFirstLetter } from "../functions/strings";
 
 export const BookInfo = (props) => {
   const { bookName } = props;
-  console.log(bookName);
   if (!bookName) return;
 
   let title;

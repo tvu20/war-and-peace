@@ -1,10 +1,13 @@
-import React from "react";
+import React, { useEffect } from "react";
 
-import "../styles/title.css";
-
-import { ScrollingBackground } from "../components/ScrollingBackground";
+import "../styles/text.css";
 
 export const TitlePage = (props) => {
+  const { updateBG } = props;
+
+  useEffect(() => {
+    updateBG(false);
+  }, [updateBG]);
   return (
     <div className="page-container fade-in">
       {/* <ScrollingBackground /> */}

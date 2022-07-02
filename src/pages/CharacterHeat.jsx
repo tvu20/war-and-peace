@@ -6,11 +6,17 @@ import characterData from "../data/chapter-detail";
 
 import { Heatmap } from "../components/Heatmap";
 
-export const CharacterHeat = () => {
+export const CharacterHeat = (props) => {
   const [keys, setKeys] = useState();
   const [newData, setNewData] = useState();
 
   const { width } = useWindowDimensions();
+
+  const { updateBG } = props;
+
+  useEffect(() => {
+    updateBG(false);
+  }, [updateBG]);
 
   useEffect(() => {
     setKeys(Object.keys(generalData.characters));

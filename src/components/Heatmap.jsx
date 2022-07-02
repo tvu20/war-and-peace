@@ -89,11 +89,18 @@ export const Heatmap = (props) => {
         style={{ padding: "30px" }}
       />
       <div className="map-description__heat">
-        Here are heatmaps of some random characters and their appearances
-        throughout the novel, where the darker the line, the most they are
-        mentioned in a particular chapter. By comparing them row by row, you can
-        see which characters have significantly more prominent roles — and at
-        which parts of the novel are their key moments.
+        <p>
+          Here are heatmaps of some random characters and their appearances
+          throughout the novel, where the darker the line, the most they are
+          mentioned in a particular chapter. By comparing them, we can see which
+          characters feature more prominently than others, which moments of the
+          novel are their key appearances, and which character storylines
+          frequently intersect.
+        </p>
+        <p>
+          The next page offers a more detailed look into the character divisions
+          of each section of the novel.
+        </p>
       </div>
     </div>
   );

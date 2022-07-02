@@ -6,11 +6,16 @@ import characterData from "../data/chapter-detail";
 
 import { Stream } from "../components/Stream";
 
-export const AllCharacters = () => {
+export const AllCharacters = (props) => {
   const [keys, setKeys] = useState();
   const [newData, setNewData] = useState();
 
   const { height, width } = useWindowDimensions();
+
+  const { updateBG } = props;
+  useEffect(() => {
+    updateBG(false);
+  }, [updateBG]);
 
   useEffect(() => {
     setKeys(Object.keys(generalData.characters));

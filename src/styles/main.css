@@ -171,3 +171,23 @@ a {
   font-size: 13px;
   margin: 0px;
 }
+
+/* MOBILE ONLY */
+
+.banner {
+  position: absolute;
+  z-index: 30;
+  background-color: #faead4;
+  width: 100vw;
+  height: 100vh;
+}
+
+.mobile-only {
+  visibility: hidden;
+}
+
+@media only screen and (max-width: 860px) {
+  .mobile-only {
+    visibility: visible;
+  }
+}

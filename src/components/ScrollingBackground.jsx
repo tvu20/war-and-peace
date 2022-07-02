@@ -9,7 +9,7 @@ export const ScrollingBackground = (props) => {
       setMargin("-3000px");
     }, 1000);
 
-    fetch("/data/book.txt")
+    fetch("data/book.txt")
       .then((r) => r.text())
       .then((text) => {
         setBgText(text.replace(/(\r\n|\n|\r)/gm, " "));

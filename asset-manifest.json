@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/war-and-peace/static/css/main.39d49f46.css",
+    "main.js": "/war-and-peace/static/js/main.5f68a57e.js",
+    "index.html": "/war-and-peace/index.html",
+    "main.39d49f46.css.map": "/war-and-peace/static/css/main.39d49f46.css.map",
+    "main.5f68a57e.js.map": "/war-and-peace/static/js/main.5f68a57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d49f46.css",
+    "static/js/main.5f68a57e.js"
+  ]
+}

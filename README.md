@@ -1,6 +1,6 @@
 # War and Peace: A Visual Analysis
 
-See this project at tvu20.github.io/war-and-peace.
+See this project at https://tvu20.github.io/war-and-peace.
 
 ## Data
 

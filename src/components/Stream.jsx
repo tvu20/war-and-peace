@@ -104,9 +104,9 @@ export const Stream = (props) => {
         height={height}
         style={{ padding: "30px" }}
       />
-      <p style={{ margin: 0 }}>
+      {/* <p style={{ margin: 0 }}>
         Character appearances combined for the entire novel.
-      </p>
+      </p> */}
     </div>
   );
 };

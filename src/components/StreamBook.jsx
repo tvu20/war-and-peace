@@ -38,7 +38,7 @@ export const StreamBook = (props) => {
   const margin = useMemo(() => {
     return { top: 20, right: 30, bottom: 0, left: 30 };
   }, []);
-  const width = wWidth - 350 - margin.left - margin.right;
+  const width = Math.min(wWidth - 350 - margin.left - margin.right, 900);
   const height = wHeight - 360 - margin.top - margin.bottom;
 
   useEffect(() => {
@@ -101,6 +101,7 @@ export const StreamBook = (props) => {
       d3.selectAll(".myArea").style("opacity", 0.2);
       d3.select(this)
         .style("opacity", 1)
+        .style("fill-opacity", 0.75)
         .style("transition", "opacity 0.3s")
         .style("stroke", (d) => colors[d.key]);
     };
@@ -118,7 +119,10 @@ export const StreamBook = (props) => {
     };
     const mouseleave = function (d) {
       Tooltip.style("visibility", "hidden");
-      d3.selectAll(".myArea").style("opacity", 1).style("stroke", "none");
+      d3.selectAll(".myArea")
+        .style("opacity", 1)
+        .style("fill-opacity", 0.6)
+        .style("stroke", "none");
     };
 
     // Area generator

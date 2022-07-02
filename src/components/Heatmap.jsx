@@ -98,7 +98,7 @@ export const Heatmap = (props) => {
           frequently intersect.
         </p>
         <p>
-          The next page offers a more detailed look into the character divisions
+          The next pages offer a more detailed look into the character divisions
           of each section of the novel.
         </p>
       </div>

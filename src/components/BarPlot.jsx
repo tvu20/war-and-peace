@@ -16,7 +16,7 @@ export const BarPlot = (props) => {
   const margin = useMemo(() => {
     return { top: 20, right: 30, bottom: 0, left: 30 };
   }, []);
-  const width = wWidth - 350 - margin.left - margin.right;
+  const width = Math.min(wWidth - 350 - margin.left - margin.right, 900);
   const height = wHeight - 360 - margin.top - margin.bottom;
 
   const [firstItem, setFirstItem] = useState(true);

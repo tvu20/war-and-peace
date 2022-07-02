@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Data
+
+All data for this project was scraped from the Project Gutenburg edition of War and Peace using Python. Code for this can be found at https://github.com/tvu20/data-vis-python.
+
 ## Available Scripts
 
 In the project directory, you can run:

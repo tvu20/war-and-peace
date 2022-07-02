@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/war-and-peace/static/css/main.39d49f46.css",
-    "main.js": "/war-and-peace/static/js/main.c81bee71.js",
+    "main.js": "/war-and-peace/static/js/main.91865f40.js",
     "index.html": "/war-and-peace/index.html",
     "main.39d49f46.css.map": "/war-and-peace/static/css/main.39d49f46.css.map",
-    "main.c81bee71.js.map": "/war-and-peace/static/js/main.c81bee71.js.map"
+    "main.91865f40.js.map": "/war-and-peace/static/js/main.91865f40.js.map"
   },
   "entrypoints": [
     "static/css/main.39d49f46.css",
-    "static/js/main.c81bee71.js"
+    "static/js/main.91865f40.js"
   ]
 }
